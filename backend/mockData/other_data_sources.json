@@ -1,0 +1,32 @@
+{
+  "IQVIA Insights Agent": [
+    { "name": "World Bank Open Data", "url": "https://data.worldbank.org", "description": "Global economic and health statistics from the World Bank." },
+    { "name": "OECD Data API", "url": "https://data.oecd.org/api/sdmx-json-documentation", "description": "Free API access to OECD health and economic indicators." },
+    { "name": "WHO Global Health Observatory", "url": "https://www.who.int/data/gho/info/gho-odata-api", "description": "WHO's open data for health statistics and disease burden." }
+  ],
+  "EXIM Trade Agent": [
+    { "name": "UN Comtrade API", "url": "https://comtrade.un.org", "description": "International trade data (free up to 100K records per call)." },
+    { "name": "World Bank WITS API", "url": "https://wits.worldbank.org", "description": "World Bank WITS API for trade and tariff data." },
+    { "name": "U.S. Census International Trade API", "url": "https://api.census.gov/data.html", "description": "Free U.S. international trade data API." }
+  ],
+  "Clinical Trials Agent": [
+    { "name": "ClinicalTrials.gov API", "url": "https://clinicaltrials.gov/api/", "description": "Registry of clinical trials; public REST API available." },
+    { "name": "WHO ICTRP", "url": "https://trialsearch.who.int", "description": "WHO clinical trials registry portal covering global trial registries." },
+    { "name": "EU Clinical Trials Register (EudraCT)", "url": "https://www.clinicaltrialsregister.eu/", "description": "EU database of clinical trials for medicinal products." }
+  ],
+  "Patent Landscape Agent": [
+    { "name": "EPO Open Patent Services (OPS)", "url": "https://www.epo.org/en/searching-for-patents/data/web-services/ops", "description": "Free API for EPO patent data (up to 4GB/week free)." },
+    { "name": "USPTO Patent Public Data", "url": "https://developer.uspto.gov/", "description": "USPTO Open Data Portal for patents (free access to USPTO patents)." },
+    { "name": "The Lens Patent API", "url": "https://www.lens.org", "description": "Lens.org provides patent and scholarly data APIs (free with registration)." }
+  ],
+  "Internal Knowledge Agent": [
+    { "name": "PubChem", "url": "https://pubchem.ncbi.nlm.nih.gov", "description": "NIH database of chemical molecules (drug structures, targets, bioactivity)." },
+    { "name": "OpenFDA", "url": "https://open.fda.gov/", "description": "FDA open APIs including drug labels, adverse events, manufacturer info." },
+    { "name": "NIH RePORTER", "url": "https://reporter.nih.gov/", "description": "Database of NIH-funded research projects; public API for research grant data." }
+  ],
+  "Web Intelligence Agent": [
+    { "name": "PubMed (NCBI E-utilities)", "url": "https://pubmed.ncbi.nlm.nih.gov", "description": "Entrez Programming Utilities for PubMed and other NCBI databases." },
+    { "name": "Europe PMC", "url": "https://europepmc.org", "description": "Europe PubMed Central API for biomedical and life sciences literature." },
+    { "name": "NewsAPI.org", "url": "https://newsapi.org", "description": "News aggregator API (free tier with key for retrieving news articles)." }
+  ]
+}

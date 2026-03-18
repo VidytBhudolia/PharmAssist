@@ -1,0 +1,122 @@
+{
+  "metformin_cancer": {
+    "title": "Report Compilation Progress",
+    "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Metformin.",
+    "sections": [
+      { "title": "Executive Summary", "status": "Complete", "color": "green" },
+      { "title": "Market & Competitive Analysis", "status": "Complete", "color": "blue" },
+      { "title": "Clinical & Mechanistic Rationale", "status": "Complete", "color": "green" },
+      { "title": "Intellectual Property & FTO", "status": "In Progress", "color": "amber" },
+      { "title": "Final Report Status", "status": "Finalizing", "color": "amber" }
+    ],
+    "report_file": "/reports/metformin_cancer_repurposing_report.pdf"
+  },
+  "sildenafil_altitude": {
+    "title": "Report Compilation Progress",
+    "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Sildenafil.",
+    "sections": [
+      { "title": "Executive Summary", "status": "Complete", "color": "green" },
+      { "title": "Market & Competitive Analysis", "status": "Complete", "color": "blue" },
+      { "title": "Clinical & Mechanistic Rationale", "status": "Complete", "color": "green" },
+      { "title": "Intellectual Property & FTO", "status": "In Progress", "color": "amber" },
+      { "title": "Final Report Status", "status": "Finalizing", "color": "amber" }
+    ],
+    "report_file": "/reports/sildenafil_altitude_repurposing_report.pdf"
+  },
+  "adalimumab_lungfibrosis": {
+    "title": "Report Compilation Progress",
+    "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Adalimumab.",
+    "sections": [
+      { "title": "Executive Summary", "status": "Complete", "color": "green" },
+      { "title": "Market & Competitive Analysis", "status": "Complete", "color": "blue" },
+      { "title": "Clinical & Mechanistic Rationale", "status": "Complete", "color": "green" },
+      { "title": "Intellectual Property & FTO", "status": "In Progress", "color": "amber" },
+      { "title": "Final Report Status", "status": "Finalizing", "color": "amber" }
+    ],
+    "report_file": "/reports/adalimumab_lungfibrosis_repurposing_report.pdf"
+  },
+  "fluoxetine_neurodegenerative": {
+    "title": "Report Compilation Progress",
+    "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Fluoxetine.",
+    "sections": [
+      { "title": "Executive Summary", "status": "Complete", "color": "green" },
+      { "title": "Market & Competitive Analysis", "status": "Complete", "color": "blue" },
+      { "title": "Clinical & Mechanistic Rationale", "status": "Complete", "color": "green" },
+      { "title": "Intellectual Property & FTO", "status": "In Progress", "color": "amber" },
+      { "title": "Final Report Status", "status": "Finalizing", "color": "amber" }
+    ],
+    "report_file": "/reports/fluoxetine_neurodegenerative_repurposing_report.pdf"
+  },
+  "pembrolizumab_NASH": {
+    "title": "Report Compilation Progress",
+    "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Pembrolizumab.",
+    "sections": [
+      { "title": "Executive Summary", "status": "Complete", "color": "green" },
+      { "title": "Market & Competitive Analysis", "status": "Complete", "color": "blue" },
+      { "title": "Clinical & Mechanistic Rationale", "status": "Complete", "color": "green" },
+      { "title": "Intellectual Property & FTO", "status": "In Progress", "color": "amber" },
+      { "title": "Final Report Status", "status": "Finalizing", "color": "amber" }
+    ],
+    "report_file": "/reports/pembrolizumab_NASH_repurposing_report.pdf"
+  },
+  "omeprazole_osteoporosis": {
+    "title": "Report Compilation Progress",
+    "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Omeprazole.",
+    "sections": [
+      { "title": "Executive Summary", "status": "Complete", "color": "green" },
+      { "title": "Market & Competitive Analysis", "status": "Complete", "color": "blue" },
+      { "title": "Clinical & Mechanistic Rationale", "status": "Complete", "color": "green" },
+      { "title": "Intellectual Property & FTO", "status": "In Progress", "color": "amber" },
+      { "title": "Final Report Status", "status": "Finalizing", "color": "amber" }
+    ],
+    "report_file": "/reports/omeprazole_osteoporosis_repurposing_report.pdf"
+  },
+  "rituximab_parkinson": {
+    "title": "Report Compilation Progress",
+    "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Rituximab.",
+    "sections": [
+      { "title": "Executive Summary", "status": "Complete", "color": "green" },
+      { "title": "Market & Competitive Analysis", "status": "Complete", "color": "blue" },
+      { "title": "Clinical & Mechanistic Rationale", "status": "Complete", "color": "green" },
+      { "title": "Intellectual Property & FTO", "status": "In Progress", "color": "amber" },
+      { "title": "Final Report Status", "status": "Finalizing", "color": "amber" }
+    ],
+    "report_file": "/reports/rituximab_parkinson_repurposing_report.pdf"
+  },
+  "ketamine_chronic_pain": {
+    "title": "Report Compilation Progress",
+    "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Ketamine.",
+    "sections": [
+      { "title": "Executive Summary", "status": "Complete", "color": "green" },
+      { "title": "Market & Competitive Analysis", "status": "Complete", "color": "blue" },
+      { "title": "Clinical & Mechanistic Rationale", "status": "Complete", "color": "green" },
+      { "title": "Intellectual Property & FTO", "status": "In Progress", "color": "amber" },
+      { "title": "Final Report Status", "status": "Finalizing", "color": "amber" }
+    ],
+    "report_file": "/reports/ketamine_chronic_pain_repurposing_report.pdf"
+  },
+  "pioglitazone_alzheimer": {
+    "title": "Report Compilation Progress",
+    "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Pioglitazone.",
+    "sections": [
+      { "title": "Executive Summary", "status": "Complete", "color": "green" },
+      { "title": "Market & Competitive Analysis", "status": "Complete", "color": "blue" },
+      { "title": "Clinical & Mechanistic Rationale", "status": "Complete", "color": "green" },
+      { "title": "Intellectual Property & FTO", "status": "In Progress", "color": "amber" },
+      { "title": "Final Report Status", "status": "Finalizing", "color": "amber" }
+    ],
+    "report_file": "/reports/pioglitazone_alzheimer_repurposing_report.pdf"
+  },
+  "ivermectin_oncology": {
+    "title": "Report Compilation Progress",
+    "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Ivermectin.",
+    "sections": [
+      { "title": "Executive Summary", "status": "Complete", "color": "green" },
+      { "title": "Market & Competitive Analysis", "status": "Complete", "color": "blue" },
+      { "title": "Clinical & Mechanistic Rationale", "status": "Complete", "color": "green" },
+      { "title": "Intellectual Property & FTO", "status": "In Progress", "color": "amber" },
+      { "title": "Final Report Status", "status": "Finalizing", "color": "amber" }
+    ],
+    "report_file": "/reports/ivermectin_oncology_repurposing_report.pdf"
+  }
+}

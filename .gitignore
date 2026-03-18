@@ -1,0 +1,14 @@
+# Local environment files (never commit real secrets)
+.env
+**/.env
+.env.local
+**/.env.local
+.env.*
+**/.env.*
+
+# Keep committed templates and docs
+!.env.example
+!**/.env.example
+
+# Project-generated cache artifact
+backend/dummyData/report_data_cache.json

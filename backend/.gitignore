@@ -1,0 +1,10 @@
+.venv
+__pycache__/
+debug_reports/
+generated_reports/
+*.log
+node_modules
+.env
+.env.local
+.env.*
+!.env.example

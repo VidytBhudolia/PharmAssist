@@ -1,0 +1,57 @@
+{
+  "semaglutide_general": {
+    "landscape_overview": {
+      "title": "Global Semaglutide Clinical Trial Landscape",
+      "description": "Semaglutide has an extensive and mature clinical development footprint spanning metabolic, cardiovascular, and exploratory neurobehavioral indications, with multiple late-stage programs."
+    },
+    "phase_distribution": {
+      "title": "Trial Phase Distribution (All Indications)",
+      "data": [
+        { "phase": "Phase I", "count": 5, "color": "blue" },
+        { "phase": "Phase II", "count": 10, "color": "green" },
+        { "phase": "Phase III", "count": 15, "color": "amber" }
+      ],
+      "description": "The predominance of Phase III trials reflects clinical maturity in core metabolic indications, while earlier phases support lifecycle expansion into new therapeutic areas."
+    },
+    "sponsor_profile": {
+      "title": "Sponsor & Research Profile",
+      "data": [
+        { "sponsor": "Novo Nordisk", "trial_count": 20, "focus": "Diabetes, Obesity, CV Outcomes" },
+        { "sponsor": "NIH / NIAAA", "trial_count": 2, "focus": "Addiction & AUD" },
+        { "sponsor": "Academic Consortia", "trial_count": 3, "focus": "Neurobehavioral & Translational Research" }
+      ],
+      "description": "Public-sector sponsorship highlights emerging scientific interest beyond commercial metabolic indications."
+    }
+  },
+  "semaglutide_aud": {
+    "aud_focus": {
+      "title": "Alcohol Use Disorder (AUD) – Clinical Trial Focus",
+      "description": "Early-stage clinical investigations are evaluating semaglutide's impact on alcohol craving, consumption behavior, and relapse risk through central reward-pathway modulation."
+    },
+    "key_trials": {
+      "title": "Key AUD Trials & Design Characteristics",
+      "data": [
+        {
+          "trial_id": "NCT05512345",
+          "phase": "Phase II",
+          "primary_endpoints": "Alcohol craving scores, drinks/week, relapse frequency",
+          "sponsor": "NIH / NIAAA"
+        }
+      ],
+      "description": "Current AUD trials are signal-seeking in nature and not powered for regulatory approval, but provide critical mechanistic validation."
+    },
+    "signal_interpretation": {
+      "title": "Clinical Signal Interpretation (AUD)",
+      "observed_trends": "Reduced alcohol craving, improved impulse control, lower reward-driven consumption",
+      "description": "Signal strength remains preliminary but aligns with preclinical and real-world behavioral observations seen in GLP-1 treated populations."
+    },
+    "development_gaps": {
+      "title": "Development Gaps & Next Steps",
+      "gaps": [
+        "No Phase III AUD trials initiated to date",
+        "Regulatory endpoints for addiction indications remain variable",
+        "Opportunity to design relapse-prevention focused pivotal trials"
+      ]
+    }
+  }
+}

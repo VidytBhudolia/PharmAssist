@@ -1,0 +1,205 @@
+{
+  "semaglutide_general": {
+    "market_forecast": {
+      "title": "Global GLP-1 Market Forecast (USD Billions)",
+      "data": [
+        { "year": "2021", "value": 8.1 },
+        { "year": "2022", "value": 12.4 },
+        { "year": "2023", "value": 18.7 },
+        { "year": "2024", "value": 28.5 },
+        { "year": "2025", "value": 34.2 }
+      ],
+      "description": "The GLP-1 market demonstrates sustained expansion driven by obesity adoption, cardiovascular outcomes data, and payer reimbursement expansion."
+    },
+    "competitive_share": {
+      "title": "Competitive Market Share (2024)",
+      "data": [
+        { "company": "Novo Nordisk", "share": "~70%" },
+        { "company": "Eli Lilly (Tirzepatide)", "share": "~24%" },
+        { "company": "Others", "share": "~6%" }
+      ],
+      "description": "Market concentration remains high, with limited near-term erosion despite dual-agonist competition."
+    }
+  },
+  "semaglutide_aud": {
+    "market_overview": {
+      "title": "Alcohol Use Disorder (AUD) – Market Overview",
+      "metrics": [
+        { "label": "Global Prevalence", "value": "~280M adults" },
+        { "label": "Diagnosed", "value": "~110M" },
+        { "label": "On Medication", "value": "<10%" },
+        { "label": "Economic Burden", "value": ">$300B / yr" }
+      ]
+    },
+    "existing_therapies": {
+      "title": "Existing AUD Therapies",
+      "data": [
+        { "drug": "Naltrexone", "mechanism": "Opioid antagonism", "efficacy": "Moderate", "limitations": "Adherence, GI effects" },
+        { "drug": "Acamprosate", "mechanism": "Glutamate modulation", "efficacy": "Low–Mod", "limitations": "TID dosing" },
+        { "drug": "Disulfiram", "mechanism": "Aversion", "efficacy": "Low", "limitations": "Safety, compliance" }
+      ]
+    },
+    "aud_signal": {
+      "title": "Semaglutide – AUD Signal (IQVIA Assessment)",
+      "observed_effects": "Reduced craving, lower reward-seeking, improved impulse control",
+      "key_points": [
+        "GLP-1 receptors present in reward circuitry",
+        "Metabolic–dopaminergic pathway overlap",
+        "Real-world behavioral signal in GLP-1 users"
+      ]
+    },
+    "commercial_scenario": {
+      "title": "AUD Repurposing – Commercial Scenario",
+      "data": [
+        { "metric": "Addressable Patients (US+EU)", "value": "40–50M" },
+        { "metric": "Peak Penetration", "value": "5–8%" },
+        { "metric": "Net Price / Year", "value": "$4k–6k" },
+        { "metric": "Peak Sales", "value": "$8–12B", "highlight": true }
+      ]
+    }
+  },
+  "breast_cancer_general": {
+    "market_forecast": {
+      "title": "Global Breast Cancer Therapeutics Market (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 24.8 },
+        { "year": "2023", "value": 27.2 },
+        { "year": "2024", "value": 30.1 },
+        { "year": "2025", "value": 33.5 },
+        { "year": "2026", "value": 37.4 }
+      ],
+      "description": "The breast cancer therapeutics market continues strong growth driven by CDK4/6 inhibitors, HER2-targeted therapies, and emerging antibody-drug conjugates (ADCs)."
+    },
+    "competitive_share": {
+      "title": "Breast Cancer Market Share by Company (2024)",
+      "data": [
+        { "company": "Roche (Herceptin, Perjeta)", "share": "28%" },
+        { "company": "Pfizer (Ibrance)", "share": "22%" },
+        { "company": "Eli Lilly (Verzenio)", "share": "18%" },
+        { "company": "AstraZeneca (Enhertu)", "share": "15%" },
+        { "company": "Others", "share": "17%" }
+      ],
+      "description": "Fragmented market with strong competition between CDK4/6 inhibitors and HER2-targeted therapies. ADCs gaining significant traction."
+    }
+  },
+  "lung_cancer_general": {
+    "market_forecast": {
+      "title": "Global Lung Cancer Treatment Market (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 28.5 },
+        { "year": "2023", "value": 31.2 },
+        { "year": "2024", "value": 35.8 },
+        { "year": "2025", "value": 40.2 },
+        { "year": "2026", "value": 45.1 }
+      ],
+      "description": "Lung cancer remains the largest oncology market segment, driven by checkpoint inhibitors, EGFR/ALK inhibitors, and expanding biomarker-driven therapies."
+    },
+    "competitive_share": {
+      "title": "Lung Cancer Market Share (2024)",
+      "data": [
+        { "company": "Merck (Keytruda)", "share": "35%" },
+        { "company": "Bristol-Myers Squibb (Opdivo)", "share": "18%" },
+        { "company": "Roche (Tecentriq)", "share": "12%" },
+        { "company": "AstraZeneca (Tagrisso)", "share": "15%" },
+        { "company": "Others", "share": "20%" }
+      ],
+      "description": "Keytruda dominates with strong first-line positioning. EGFR inhibitors remain important in mutation-positive populations."
+    }
+  },
+  "diabetes_general": {
+    "market_forecast": {
+      "title": "Global Diabetes Drug Market (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 62.4 },
+        { "year": "2023", "value": 71.8 },
+        { "year": "2024", "value": 82.5 },
+        { "year": "2025", "value": 94.2 },
+        { "year": "2026", "value": 108.5 }
+      ],
+      "description": "GLP-1 receptor agonists and SGLT-2 inhibitors are transforming the diabetes landscape, expanding beyond glycemic control to cardiovascular and renal protection."
+    },
+    "competitive_share": {
+      "title": "Diabetes Market Share by Class (2024)",
+      "data": [
+        { "company": "GLP-1 Agonists (Novo Nordisk, Lilly)", "share": "42%" },
+        { "company": "SGLT-2 Inhibitors (AstraZeneca, BI, Lilly)", "share": "23%" },
+        { "company": "Insulin (Novo Nordisk, Sanofi, Lilly)", "share": "20%" },
+        { "company": "DPP-4 Inhibitors", "share": "8%" },
+        { "company": "Others", "share": "7%" }
+      ],
+      "description": "GLP-1 class dominating growth, driven by obesity crossover and cardiorenal benefits. Traditional insulins facing biosimilar pressure."
+    }
+  },
+  "alzheimer_general": {
+    "market_forecast": {
+      "title": "Global Alzheimer's Disease Market (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 3.8 },
+        { "year": "2023", "value": 5.2 },
+        { "year": "2024", "value": 8.4 },
+        { "year": "2025", "value": 12.6 },
+        { "year": "2026", "value": 18.2 }
+      ],
+      "description": "Market transformation underway with approval of amyloid-targeting antibodies. Significant growth expected despite access and pricing challenges."
+    },
+    "competitive_share": {
+      "title": "Alzheimer's Market Share (2024)",
+      "data": [
+        { "company": "Eisai/Biogen (Leqembi)", "share": "45%" },
+        { "company": "Eli Lilly (Donanemab)", "share": "30%" },
+        { "company": "Biogen (Aduhelm)", "share": "5%" },
+        { "company": "Symptomatic Treatments", "share": "20%" }
+      ],
+      "description": "Disease-modifying therapies rapidly capturing market share from symptomatic treatments. Infrastructure and diagnostics remain key adoption barriers."
+    }
+  },
+  "oncology_general": {
+    "market_forecast": {
+      "title": "Global Oncology Market Forecast (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 185.0 },
+        { "year": "2023", "value": 205.0 },
+        { "year": "2024", "value": 228.0 },
+        { "year": "2025", "value": 255.0 },
+        { "year": "2026", "value": 285.0 }
+      ],
+      "description": "Oncology remains the largest therapeutic area, driven by checkpoint inhibitors, targeted therapies, and emerging cell & gene therapies."
+    },
+    "competitive_share": {
+      "title": "Oncology Market Share by Company (2024)",
+      "data": [
+        { "company": "Merck", "share": "18%" },
+        { "company": "Roche", "share": "16%" },
+        { "company": "Bristol-Myers Squibb", "share": "14%" },
+        { "company": "AstraZeneca", "share": "12%" },
+        { "company": "Pfizer", "share": "10%" },
+        { "company": "Others", "share": "30%" }
+      ],
+      "description": "Keytruda leads overall oncology market. Biosimilar erosion of older biologics offset by new launches and line extensions."
+    }
+  },
+  "immunology_general": {
+    "market_forecast": {
+      "title": "Global Immunology Market Forecast (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 95.0 },
+        { "year": "2023", "value": 102.0 },
+        { "year": "2024", "value": 108.0 },
+        { "year": "2025", "value": 115.0 },
+        { "year": "2026", "value": 122.0 }
+      ],
+      "description": "Immunology market showing moderate growth as Humira biosimilars impact legacy TNF market while JAK inhibitors and IL-23 inhibitors gain share."
+    },
+    "competitive_share": {
+      "title": "Immunology Market Share (2024)",
+      "data": [
+        { "company": "AbbVie (Skyrizi, Rinvoq)", "share": "25%" },
+        { "company": "Johnson & Johnson (Stelara, Tremfya)", "share": "18%" },
+        { "company": "Humira Biosimilars", "share": "20%" },
+        { "company": "Pfizer (Xeljanz)", "share": "8%" },
+        { "company": "Others", "share": "29%" }
+      ],
+      "description": "AbbVie successfully transitioning from Humira to newer assets. IL-23 inhibitors gaining preferred status in psoriasis and IBD."
+    }
+  }
+}

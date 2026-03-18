@@ -1,0 +1,206 @@
+{
+  "metformin_cancer": {
+    "news": [
+      {
+        "headline": "Metformin Shows Promise in New Cancer Study",
+        "source": "Reuters",
+        "date": "2026-01-10",
+        "summary": "A recent study indicates Metformin may improve survival in colon cancer patients."
+      },
+      {
+        "headline": "Clinical Trial Launched for Metformin in Ovarian Cancer",
+        "source": "PharmaTimes",
+        "date": "2025-11-05",
+        "summary": "Biotech firm announces Phase II trial to test Metformin for ovarian cancer treatment."
+      }
+    ],
+    "publications": [
+      {
+        "title": "Metformin inhibits tumor growth via AMPK in colon cancer",
+        "journal": "Cell Metabolism",
+        "year": 2025,
+        "summary": "Laboratory study shows Metformin significantly slowed colon tumor growth in mice."
+      },
+      {
+        "title": "Effect of Metformin on Chemotherapy Efficacy",
+        "journal": "Journal of Oncology",
+        "year": 2026,
+        "summary": "Clinical trial data shows added benefit of Metformin with standard chemo in advanced breast cancer."
+      }
+    ]
+  },
+  "sildenafil_altitude": {
+    "news": [
+      {
+        "headline": "Pfizer Trials Sildenafil for Mountain Climbing",
+        "source": "BBC News",
+        "date": "2025-12-01",
+        "summary": "Pfizer announces research into use of Viagra to combat altitude sickness."
+      },
+      {
+        "headline": "Sildenafil approved for rare pulmonary condition",
+        "source": "The Lancet News",
+        "date": "2026-02-15",
+        "summary": "Regulator approves novel indication to relieve high altitude pulmonary edema."
+      }
+    ],
+    "publications": [
+      {
+        "title": "Sildenafil improves oxygenation at high altitude",
+        "journal": "NEJM",
+        "year": 2025,
+        "summary": "Randomized trial found reduced symptoms in climbers using Sildenafil vs placebo."
+      },
+      {
+        "title": "PDE5 inhibitors and Altitude Hypoxia",
+        "journal": "Respiratory Medicine",
+        "year": 2024,
+        "summary": "Review of evidence for PDE5 inhibitor benefits in hypoxic conditions."
+      }
+    ]
+  },
+  "adalimumab_lungfibrosis": {
+    "news": [
+      {
+        "headline": "New Study on TNF Inhibitors in Lung Fibrosis",
+        "source": "Nature News",
+        "date": "2025-10-20",
+        "summary": "Researchers are exploring anti-TNF therapies for pulmonary fibrosis in early clinical studies."
+      }
+    ],
+    "publications": [
+      {
+        "title": "TNF blockade in pulmonary fibrosis: experimental insights",
+        "journal": "American Journal of Respiratory and Critical Care Medicine",
+        "year": 2025,
+        "summary": "Review article summarizing preclinical data on TNF inhibition in fibrotic lung models."
+      }
+    ]
+  },
+  "fluoxetine_neurodegenerative": {
+    "news": [
+      {
+        "headline": "Fluoxetine Shows New Neurological Benefits in Early Study",
+        "source": "MedPage Today",
+        "date": "2025-08-10",
+        "summary": "Preliminary research suggests Fluoxetine may improve cognitive function in early Alzheimer's patients."
+      }
+    ],
+    "publications": [
+      {
+        "title": "SSRIs and neuroinflammation: implications for Alzheimer's disease",
+        "journal": "Journal of Neurochemistry",
+        "year": 2025,
+        "summary": "Review article discussing the potential neuroprotective effects of SSRIs in neurodegenerative conditions."
+      }
+    ]
+  },
+  "pembrolizumab_NASH": {
+    "news": [
+      {
+        "headline": "Pembrolizumab Shows Anti-Fibrotic Activity in Mouse Model of NASH",
+        "source": "ScienceDaily",
+        "date": "2026-03-01",
+        "summary": "Researchers report PD-1 blockade reduced liver fibrosis markers in a preclinical study."
+      }
+    ],
+    "publications": [
+      {
+        "title": "Immune checkpoint therapy for liver diseases: new insights",
+        "journal": "Hepatology",
+        "year": 2025,
+        "summary": "Review article discussing emerging roles of checkpoint inhibitors in liver disease."
+      }
+    ]
+  },
+  "omeprazole_osteoporosis": {
+    "news": [
+      {
+        "headline": "New Study Links Long-Term PPI Use to Bone Density Changes",
+        "source": "Endocrine Today",
+        "date": "2026-01-15",
+        "summary": "Observational data show chronic Omeprazole users may have higher fracture risk."
+      }
+    ],
+    "publications": [
+      {
+        "title": "Proton pump inhibitors and fracture risk: a clinical review",
+        "journal": "Journal of Bone and Mineral Research",
+        "year": 2025,
+        "summary": "Review summarizing evidence of bone metabolism changes with chronic PPI therapy."
+      }
+    ]
+  },
+  "rituximab_parkinson": {
+    "news": [
+      {
+        "headline": "Pilot Study of Rituximab in Parkinson's Shows Early Tolerability",
+        "source": "Neurology Today",
+        "date": "2025-09-12",
+        "summary": "Initial small study suggests Rituximab is tolerated but no clear benefit yet in PD."
+      }
+    ],
+    "publications": [
+      {
+        "title": "B cells in Parkinson's Disease pathology",
+        "journal": "Movement Disorders",
+        "year": 2025,
+        "summary": "Research article exploring the potential role of B-cell depletion in Parkinson's models."
+      }
+    ]
+  },
+  "ketamine_chronic_pain": {
+    "news": [
+      {
+        "headline": "Ketamine Eases Neuropathic Pain in Clinical Study",
+        "source": "Science News",
+        "date": "2026-05-22",
+        "summary": "Clinical trial reports significant pain reduction in patients treated with low-dose ketamine."
+      }
+    ],
+    "publications": [
+      {
+        "title": "Ketamine’s role in chronic pain management",
+        "journal": "Pain Research & Management",
+        "year": 2025,
+        "summary": "Clinical review on the efficacy of ketamine infusions for refractory pain conditions."
+      }
+    ]
+  },
+  "pioglitazone_alzheimer": {
+    "news": [
+      {
+        "headline": "Clinical Data on Pioglitazone in Mild AD Shows Mixed Results",
+        "source": "Alzheimer's Research & Therapy",
+        "date": "2026-04-10",
+        "summary": "Recent trial reports showed minor cognitive benefits in early-stage patients using Pioglitazone."
+      }
+    ],
+    "publications": [
+      {
+        "title": "PPAR-gamma agonists in Alzheimer's disease",
+        "journal": "Journal of Neuroimmune Pharmacology",
+        "year": 2025,
+        "summary": "Study exploring how insulin-sensitizing drugs may affect neuroinflammation in AD."
+      }
+    ]
+  },
+  "ivermectin_oncology": {
+    "news": [
+      {
+        "headline": "Study Finds Ivermectin Inhibits Breast Cancer Cell Growth",
+        "source": "Cancer Research UK",
+        "date": "2025-07-18",
+        "summary": "Laboratory study reports Ivermectin's effect on breast cancer cell apoptosis."
+      }
+    ],
+    "publications": [
+      {
+        "title": "Ivermectin as an anticancer agent: mechanisms and perspectives",
+        "journal": "Oncotarget",
+        "year": 2025,
+        "summary": "Review of Ivermectin's potential mechanisms in cancer therapy."
+      }
+    ]
+  }
+}

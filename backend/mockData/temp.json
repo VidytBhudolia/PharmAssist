@@ -1,0 +1,3281 @@
+{
+  "metformin_cancer": {
+    "query": "Evaluate repurposing opportunities for Metformin (small molecule) in Oncology (cancer)",
+    "tasks": [
+      "Analyze unmet medical needs in Oncology therapy",
+      "Assess competitive products and market dynamics for Oncology",
+      "Search clinical trial registries for studies of Metformin in Oncology",
+      "Review patent landscape focusing on Metformin Oncology",
+      "Evaluate global market size and growth projections for Oncology",
+      "Identify key companies and therapies in cancer area",
+      "Examine manufacturing and API sourcing considerations for Metformin",
+      "Monitor recent scientific publications on Metformin and Oncology",
+      "Check regulatory status and approvals of Metformin in new indication",
+      "Draft strategic recommendations for repurposing Metformin into Oncology"
+    ],
+    "IQVIA Insights Agent": {
+      "market_forecast": {
+        "title": "Global Oncology Drug Market Forecast (USD Billions)",
+        "data": [
+          {
+            "year": "2022",
+            "value": 160
+          },
+          {
+            "year": "2023",
+            "value": 165
+          },
+          {
+            "year": "2024",
+            "value": 173
+          },
+          {
+            "year": "2025",
+            "value": 182
+          },
+          {
+            "year": "2026",
+            "value": 190
+          }
+        ]
+      },
+      "competitive_share": {
+        "title": "Competitive Market Share (2024)",
+        "data": [
+          {
+            "company": "Roche",
+            "share": "20%"
+          },
+          {
+            "company": "Novartis",
+            "share": "18%"
+          },
+          {
+            "company": "Pfizer",
+            "share": "15%"
+          },
+          {
+            "company": "Others",
+            "share": "~47%"
+          }
+        ]
+      }
+    },
+    "EXIM Trade Agent": {
+      "trade_volume": {
+        "title": "API Trade Volume Analysis",
+        "data": [
+          {
+            "country": "India",
+            "q2_2024": 120,
+            "q3_2024": 150,
+            "qoq_growth": "+25%"
+          },
+          {
+            "country": "China",
+            "q2_2024": 80,
+            "q3_2024": 100,
+            "qoq_growth": "+25%"
+          },
+          {
+            "country": "Mexico",
+            "q2_2024": 30,
+            "q3_2024": 35,
+            "qoq_growth": "+17%"
+          }
+        ]
+      },
+      "price_trends": {
+        "title": "API Price Trends (USD per kg or per unit)",
+        "data": [
+          {
+            "year": 2022,
+            "price": 50
+          },
+          {
+            "year": 2023,
+            "price": 55
+          },
+          {
+            "year": 2024,
+            "price": 53
+          }
+        ]
+      },
+      "import_risks": {
+        "title": "Import Risk Assessment",
+        "details": "Dependence on India/China; low API price volatility"
+      }
+    },
+    "Clinical Trials Agent": {
+      "landscape_overview": {
+        "title": "Global Metformin Clinical Trial Landscape",
+        "description": "Multiple trials are evaluating Metformin's anticancer effects across various tumor types."
+      },
+      "phase_distribution": {
+        "title": "Trial Phase Distribution",
+        "data": [
+          {
+            "phase": "Phase I",
+            "count": 2,
+            "color": "blue"
+          },
+          {
+            "phase": "Phase II",
+            "count": 8,
+            "color": "green"
+          },
+          {
+            "phase": "Phase III",
+            "count": 2,
+            "color": "amber"
+          }
+        ],
+        "description": "Predominance of Phase II trials reflects exploratory studies in oncology contexts."
+      },
+      "sponsor_profile": {
+        "title": "Sponsor & Research Profile",
+        "data": [
+          {
+            "sponsor": "Bristol-Myers Squibb",
+            "trial_count": 3,
+            "focus": "Breast, Colon Cancer"
+          },
+          {
+            "sponsor": "NIH",
+            "trial_count": 2,
+            "focus": "Lung, Prostate Cancer"
+          },
+          {
+            "sponsor": "Academic Consortia",
+            "trial_count": 2,
+            "focus": "Pancreatic Cancer"
+          }
+        ],
+        "description": "Mix of industry and academic sponsors investigating Metformin's role in cancer."
+      }
+    },
+    "Patent Landscape Agent": {
+      "landscape_overview": {
+        "title": "Patent Landscape Overview",
+        "sections": [
+          {
+            "label": "Core Patent Coverage",
+            "value": "Original diabetes patents expired; weak patents on formulation/combos"
+          },
+          {
+            "label": "Patent Expiry Timeline",
+            "value": "All core patents expired by 2017; some process patents to 2025"
+          },
+          {
+            "label": "FTO Status",
+            "value": "Low risk due to expiry of key patents"
+          }
+        ]
+      },
+      "repurposing_strategy": {
+        "title": "Strategic Repurposing Patent Strategy",
+        "high_confidence_targets": "Pancreatic and colon cancer (metabolic mechanism)",
+        "medium_risk_areas": "Breast cancer, multiple myeloma (need dosing claims)",
+        "low_priority": "Hematologic malignancies (less direct mechanism)"
+      },
+      "filing_heatmap": {
+        "title": "Patent Filings Over Time",
+        "data": [
+          {
+            "year": 2020,
+            "count": 2
+          },
+          {
+            "year": 2021,
+            "count": 3
+          },
+          {
+            "year": 2022,
+            "count": 1
+          },
+          {
+            "year": 2023,
+            "count": 1
+          },
+          {
+            "year": 2024,
+            "count": 0
+          }
+        ],
+        "description": "Filing trends indicate attention to related research areas."
+      },
+      "key_patent_extract": [
+        {
+          "patent": "US7654321B2",
+          "owner": "BMS",
+          "key_claim": "Metformin to inhibit tumor growth"
+        },
+        {
+          "patent": "EP1234567A1",
+          "owner": "PharmaCo",
+          "key_claim": "Metformin formulation for oncology"
+        }
+      ],
+      "ip_opportunities": {
+        "title": "Key IP Opportunities",
+        "list": [
+          "File method-of-use patents for specific cancer indications",
+          "Develop novel combination therapies covered by patents"
+        ]
+      }
+    },
+    "Internal Knowledge Agent": {
+      "strategic_synthesis": {
+        "title": "Internal Knowledge Base – Strategic Synthesis",
+        "insights": [
+          {
+            "label": "Mechanism Fit",
+            "value": "Interference with cancer metabolism; strong rationale"
+          },
+          {
+            "label": "Clinical Evidence",
+            "value": "Retrospective studies suggest reduced tumor growth with metformin"
+          },
+          {
+            "label": "Competition",
+            "value": "Many generic options; niche for adjunct therapy"
+          }
+        ]
+      },
+      "cross_indication_comparison": {
+        "title": "Cross-Indication Strategic Comparison",
+        "dimensions": [
+          {
+            "dimension": "Commercial Readiness",
+            "current": "High (Diabetes)",
+            "current_level": "green",
+            "new": "Medium (Oncology)",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Clinical Evidence",
+            "current": "Strong",
+            "current_level": "green",
+            "new": "Modest",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Mechanistic Rationale",
+            "current": "Moderate",
+            "current_level": "green",
+            "new": "Strong",
+            "new_level": "green"
+          }
+        ]
+      }
+    },
+    "Web Intelligence Agent": {
+      "news": [
+        {
+          "headline": "Metformin Shows Promise in New Cancer Study",
+          "source": "Reuters",
+          "date": "2026-01-10",
+          "summary": "A recent study indicates Metformin may improve survival in colon cancer patients."
+        },
+        {
+          "headline": "Clinical Trial Launched for Metformin in Ovarian Cancer",
+          "source": "PharmaTimes",
+          "date": "2025-11-05",
+          "summary": "Biotech firm announces Phase II trial to test Metformin for ovarian cancer treatment."
+        }
+      ],
+      "publications": [
+        {
+          "title": "Metformin inhibits tumor growth via AMPK in colon cancer",
+          "journal": "Cell Metabolism",
+          "year": 2025,
+          "summary": "Laboratory study shows Metformin significantly slowed colon tumor growth in mice."
+        },
+        {
+          "title": "Effect of Metformin on Chemotherapy Efficacy",
+          "journal": "Journal of Oncology",
+          "year": 2026,
+          "summary": "Clinical trial data shows added benefit of Metformin with standard chemo in advanced breast cancer."
+        }
+      ]
+    },
+    "Report Generator Agent": {
+      "title": "Report Compilation Progress",
+      "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Metformin.",
+      "sections": [
+        {
+          "title": "Executive Summary",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Market & Competitive Analysis",
+          "status": "Complete",
+          "color": "blue"
+        },
+        {
+          "title": "Clinical & Mechanistic Rationale",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Intellectual Property & FTO",
+          "status": "In Progress",
+          "color": "amber"
+        },
+        {
+          "title": "Final Report Status",
+          "status": "Finalizing",
+          "color": "amber"
+        }
+      ],
+      "report_file": "/reports/metformin_cancer_repurposing_report.pdf"
+    }
+  },
+  "sildenafil_altitude": {
+    "query": "Evaluate repurposing opportunities for Sildenafil (small molecule) in High Altitude Pulmonary Edema (pulmonary)",
+    "tasks": [
+      "Analyze unmet medical needs in High Altitude Pulmonary Edema therapy",
+      "Assess competitive products and market dynamics for pulmonary conditions",
+      "Search clinical trial registries for studies of Sildenafil in High Altitude Pulmonary Edema",
+      "Review patent landscape focusing on Sildenafil High Altitude Pulmonary Edema",
+      "Evaluate global market size and growth projections for pulmonary conditions",
+      "Identify key companies and therapies in pulmonary area",
+      "Examine manufacturing and API sourcing considerations for Sildenafil",
+      "Monitor recent scientific publications on Sildenafil and high-altitude medicine",
+      "Check regulatory status and approvals of Sildenafil in new indication",
+      "Draft strategic recommendations for repurposing Sildenafil into High Altitude Pulmonary Edema"
+    ],
+    "IQVIA Insights Agent": {
+      "market_forecast": {
+        "title": "Global Pulmonary Hypertension & Altitude Sickness Market Forecast (USD Millions)",
+        "data": [
+          {
+            "year": "2022",
+            "value": 450
+          },
+          {
+            "year": "2023",
+            "value": 470
+          },
+          {
+            "year": "2024",
+            "value": 490
+          },
+          {
+            "year": "2025",
+            "value": 510
+          },
+          {
+            "year": "2026",
+            "value": 540
+          }
+        ]
+      },
+      "competitive_share": {
+        "title": "Competitive Market Share (2024)",
+        "data": [
+          {
+            "company": "Pfizer (Revatio)",
+            "share": "65%"
+          },
+          {
+            "company": "Novartis (Adempas)",
+            "share": "10%"
+          },
+          {
+            "company": "Generic Suppliers",
+            "share": "~25%"
+          }
+        ]
+      }
+    },
+    "EXIM Trade Agent": {
+      "trade_volume": {
+        "title": "API Trade Volume Analysis",
+        "data": [
+          {
+            "country": "China",
+            "q2_2024": 90,
+            "q3_2024": 110,
+            "qoq_growth": "+22%"
+          },
+          {
+            "country": "India",
+            "q2_2024": 60,
+            "q3_2024": 75,
+            "qoq_growth": "+25%"
+          },
+          {
+            "country": "Germany",
+            "q2_2024": 20,
+            "q3_2024": 25,
+            "qoq_growth": "+25%"
+          }
+        ]
+      },
+      "price_trends": {
+        "title": "API Price Trends (USD per kg or per unit)",
+        "data": [
+          {
+            "year": 2022,
+            "price": 300
+          },
+          {
+            "year": 2023,
+            "price": 290
+          },
+          {
+            "year": 2024,
+            "price": 295
+          }
+        ]
+      },
+      "import_risks": {
+        "title": "Import Risk Assessment",
+        "details": "China/India APIs; counterfeit risks in informal markets"
+      }
+    },
+    "Clinical Trials Agent": {
+      "landscape_overview": {
+        "title": "Global Sildenafil Clinical Trial Landscape",
+        "description": "Sildenafil trials are focused on pulmonary conditions including altitude sickness and HAPE."
+      },
+      "phase_distribution": {
+        "title": "Trial Phase Distribution",
+        "data": [
+          {
+            "phase": "Phase I",
+            "count": 1,
+            "color": "blue"
+          },
+          {
+            "phase": "Phase II",
+            "count": 4,
+            "color": "green"
+          },
+          {
+            "phase": "Phase III",
+            "count": 1,
+            "color": "amber"
+          }
+        ],
+        "description": "Several Phase II studies explore efficacy for acute mountain sickness."
+      },
+      "sponsor_profile": {
+        "title": "Sponsor & Research Profile",
+        "data": [
+          {
+            "sponsor": "University Research Centers",
+            "trial_count": 3,
+            "focus": "HAPE prevention"
+          },
+          {
+            "sponsor": "Defense Research Labs",
+            "trial_count": 1,
+            "focus": "Altitude Adaptation"
+          },
+          {
+            "sponsor": "Pharmaceutical Company",
+            "trial_count": 2,
+            "focus": "Pulmonary Hypertension"
+          }
+        ],
+        "description": "Research led by military and academia on altitude applications."
+      }
+    },
+    "Patent Landscape Agent": {
+      "landscape_overview": {
+        "title": "Patent Landscape Overview",
+        "sections": [
+          {
+            "label": "Core Patent Coverage",
+            "value": "Composition patent expired (2012); some delivery/formulation patents exist"
+          },
+          {
+            "label": "Patent Expiry Timeline",
+            "value": "Core patents expired ~2012; formulation patents to 2023"
+          },
+          {
+            "label": "FTO Status",
+            "value": "Generally open; caution on use in pulmonary hypertension claims"
+          }
+        ]
+      },
+      "repurposing_strategy": {
+        "title": "Strategic Repurposing Patent Strategy",
+        "high_confidence_targets": "Altitude sickness prophylaxis (mechanistic alignment)",
+        "medium_risk_areas": "Pulmonary hypertension (existing patents)",
+        "low_priority": "Cardiac uses beyond current labels"
+      },
+      "filing_heatmap": {
+        "title": "Patent Filings Over Time",
+        "data": [
+          {
+            "year": 2020,
+            "count": 1
+          },
+          {
+            "year": 2021,
+            "count": 1
+          },
+          {
+            "year": 2022,
+            "count": 0
+          },
+          {
+            "year": 2023,
+            "count": 1
+          },
+          {
+            "year": 2024,
+            "count": 0
+          }
+        ],
+        "description": "Filing trends indicate attention to related research areas."
+      },
+      "key_patent_extract": [
+        {
+          "patent": "US10987654B2",
+          "owner": "Pfizer",
+          "key_claim": "PDE5 inhibitors for altitude sickness"
+        }
+      ],
+      "ip_opportunities": {
+        "title": "Key IP Opportunities",
+        "list": [
+          "Target formulation patents for mountain-use dosage",
+          "Claim methods specific to altitude acclimatization"
+        ]
+      }
+    },
+    "Internal Knowledge Agent": {
+      "strategic_synthesis": {
+        "title": "Internal Knowledge Base – Strategic Synthesis",
+        "insights": [
+          {
+            "label": "Mechanism Fit",
+            "value": "Vasodilation improves oxygenation at altitude"
+          },
+          {
+            "label": "Clinical Evidence",
+            "value": "Some pilot studies in mountaineers exist"
+          },
+          {
+            "label": "Strategic Fit",
+            "value": "Distinct niche market; complements cardiovascular portfolio"
+          }
+        ]
+      },
+      "cross_indication_comparison": {
+        "title": "Cross-Indication Strategic Comparison",
+        "dimensions": [
+          {
+            "dimension": "Commercial Readiness",
+            "current": "High (ED)",
+            "current_level": "green",
+            "new": "Low (Altitude)",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Regulatory Hurdles",
+            "current": "Low",
+            "current_level": "green",
+            "new": "Moderate",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Competition",
+            "current": "Medium",
+            "current_level": "yellow",
+            "new": "Low",
+            "new_level": "green"
+          }
+        ]
+      }
+    },
+    "Web Intelligence Agent": {
+      "news": [
+        {
+          "headline": "Pfizer Trials Sildenafil for Mountain Climbing",
+          "source": "BBC News",
+          "date": "2025-12-01",
+          "summary": "Pfizer announces research into use of Viagra to combat altitude sickness."
+        },
+        {
+          "headline": "Sildenafil approved for rare pulmonary condition",
+          "source": "The Lancet News",
+          "date": "2026-02-15",
+          "summary": "Regulator approves novel indication to relieve high altitude pulmonary edema."
+        }
+      ],
+      "publications": [
+        {
+          "title": "Sildenafil improves oxygenation at high altitude",
+          "journal": "NEJM",
+          "year": 2025,
+          "summary": "Randomized trial found reduced symptoms in climbers using Sildenafil vs placebo."
+        },
+        {
+          "title": "PDE5 inhibitors and Altitude Hypoxia",
+          "journal": "Respiratory Medicine",
+          "year": 2024,
+          "summary": "Review of evidence for PDE5 inhibitor benefits in hypoxic conditions."
+        }
+      ]
+    },
+    "Report Generator Agent": {
+      "title": "Report Compilation Progress",
+      "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Sildenafil.",
+      "sections": [
+        {
+          "title": "Executive Summary",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Market & Competitive Analysis",
+          "status": "Complete",
+          "color": "blue"
+        },
+        {
+          "title": "Clinical & Mechanistic Rationale",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Intellectual Property & FTO",
+          "status": "In Progress",
+          "color": "amber"
+        },
+        {
+          "title": "Final Report Status",
+          "status": "Finalizing",
+          "color": "amber"
+        }
+      ],
+      "report_file": "/reports/sildenafil_altitude_repurposing_report.pdf"
+    }
+  },
+  "adalimumab_lungfibrosis": {
+    "query": "Evaluate repurposing opportunities for Adalimumab (biologic) in Idiopathic Pulmonary Fibrosis (pulmonology)",
+    "tasks": [
+      "Analyze unmet medical needs in Idiopathic Pulmonary Fibrosis therapy",
+      "Assess competitive products and market dynamics for pulmonology conditions",
+      "Search clinical trial registries for studies of Adalimumab in Idiopathic Pulmonary Fibrosis",
+      "Review patent landscape focusing on Adalimumab Idiopathic Pulmonary Fibrosis",
+      "Evaluate global market size and growth projections for pulmonology conditions",
+      "Identify key companies and therapies in autoimmune lung disease area",
+      "Examine manufacturing and API sourcing considerations for Adalimumab",
+      "Monitor recent scientific publications on Adalimumab and lung fibrosis",
+      "Check regulatory status and approvals of Adalimumab in new indication",
+      "Draft strategic recommendations for repurposing Adalimumab into Idiopathic Pulmonary Fibrosis"
+    ],
+    "IQVIA Insights Agent": {
+      "market_forecast": {
+        "title": "Global Lung Disease Biologics Market Forecast (USD Billions)",
+        "data": [
+          {
+            "year": "2022",
+            "value": 2.1
+          },
+          {
+            "year": "2023",
+            "value": 2.3
+          },
+          {
+            "year": "2024",
+            "value": 2.6
+          },
+          {
+            "year": "2025",
+            "value": 3.0
+          },
+          {
+            "year": "2026",
+            "value": 3.4
+          }
+        ]
+      },
+      "competitive_share": {
+        "title": "Competitive Market Share (2026)",
+        "data": [
+          {
+            "company": "Boehringer Ingelheim",
+            "share": "30%"
+          },
+          {
+            "company": "Roche (Actemra)",
+            "share": "25%"
+          },
+          {
+            "company": "Galapagos",
+            "share": "15%"
+          },
+          {
+            "company": "Others",
+            "share": "~30%"
+          }
+        ]
+      }
+    },
+    "EXIM Trade Agent": {
+      "trade_volume": {
+        "title": "API Trade Volume Analysis",
+        "data": [
+          {
+            "country": "EU (Germany)",
+            "q2_2024": 5,
+            "q3_2024": 7,
+            "qoq_growth": "+40%"
+          },
+          {
+            "country": "USA",
+            "q2_2024": 3,
+            "q3_2024": 4,
+            "qoq_growth": "+33%"
+          },
+          {
+            "country": "India",
+            "q2_2024": 2,
+            "q3_2024": 2,
+            "qoq_growth": "0%"
+          }
+        ]
+      },
+      "price_trends": {
+        "title": "API Price Trends (USD per kg or per unit)",
+        "data": [
+          {
+            "year": 2022,
+            "price": 8000
+          },
+          {
+            "year": 2023,
+            "price": 8200
+          },
+          {
+            "year": 2024,
+            "price": 8100
+          }
+        ]
+      },
+      "import_risks": {
+        "title": "Import Risk Assessment",
+        "details": "Complex manufacturing; potential biosimilar competition"
+      }
+    },
+    "Clinical Trials Agent": {
+      "landscape_overview": {
+        "title": "Global Adalimumab Clinical Trial Landscape",
+        "description": "Investigation into anti-TNF therapies for lung fibrosis is nascent, with few active studies."
+      },
+      "phase_distribution": {
+        "title": "Trial Phase Distribution",
+        "data": [
+          {
+            "phase": "Phase I",
+            "count": 0,
+            "color": "blue"
+          },
+          {
+            "phase": "Phase II",
+            "count": 3,
+            "color": "green"
+          },
+          {
+            "phase": "Phase III",
+            "count": 1,
+            "color": "amber"
+          }
+        ],
+        "description": "Predominantly Phase II trials targeting fibrotic lung disease."
+      },
+      "sponsor_profile": {
+        "title": "Sponsor & Research Profile",
+        "data": [
+          {
+            "sponsor": "AbbVie",
+            "trial_count": 1,
+            "focus": "IPF"
+          },
+          {
+            "sponsor": "Academic Consortium",
+            "trial_count": 2,
+            "focus": "Autoimmune Lung Disease"
+          }
+        ],
+        "description": "Single industry study with additional investigator-led trials."
+      }
+    },
+    "Patent Landscape Agent": {
+      "landscape_overview": {
+        "title": "Patent Landscape Overview",
+        "sections": [
+          {
+            "label": "Core Patent Coverage",
+            "value": "Biologic composition patents active until 2026; method patents exist for autoimmune uses"
+          },
+          {
+            "label": "Patent Expiry Timeline",
+            "value": "Core patents expire ~2026; some EU extension til 2029"
+          },
+          {
+            "label": "FTO Status",
+            "value": "High risk due to strong method-of-use patents by multiple companies"
+          }
+        ]
+      },
+      "repurposing_strategy": {
+        "title": "Strategic Repurposing Patent Strategy",
+        "high_confidence_targets": "Fibrotic lung diseases (novel indication claims)",
+        "medium_risk_areas": "Other autoimmune ILDs (patent overlap)",
+        "low_priority": "Broad inflammatory uses"
+      },
+      "filing_heatmap": {
+        "title": "Patent Filings Over Time",
+        "data": [
+          {
+            "year": 2020,
+            "count": 3
+          },
+          {
+            "year": 2021,
+            "count": 4
+          },
+          {
+            "year": 2022,
+            "count": 2
+          },
+          {
+            "year": 2023,
+            "count": 3
+          },
+          {
+            "year": 2024,
+            "count": 1
+          }
+        ],
+        "description": "Filing trends indicate attention to related research areas."
+      },
+      "key_patent_extract": [
+        {
+          "patent": "US9876543B2",
+          "owner": "AbbVie",
+          "key_claim": "TNF inhibitors for lung fibrosis"
+        }
+      ],
+      "ip_opportunities": {
+        "title": "Key IP Opportunities",
+        "list": [
+          "Focus on orphan indications to extend exclusivity",
+          "Combine with biomarkers to differentiate usage"
+        ]
+      }
+    },
+    "Internal Knowledge Agent": {
+      "strategic_synthesis": {
+        "title": "Internal Knowledge Base – Strategic Synthesis",
+        "insights": [
+          {
+            "label": "Mechanism Fit",
+            "value": "Anti-inflammatory may slow fibrosis progression"
+          },
+          {
+            "label": "Clinical Signal",
+            "value": "Mixed results in IPF; theoretical benefit"
+          },
+          {
+            "label": "Manufacturing Challenge",
+            "value": "Biologic production is complex and costly"
+          }
+        ]
+      },
+      "cross_indication_comparison": {
+        "title": "Cross-Indication Strategic Comparison",
+        "dimensions": [
+          {
+            "dimension": "Commercial Readiness",
+            "current": "High (RA/IBD)",
+            "current_level": "green",
+            "new": "Low (IPF)",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Scientific Rationale",
+            "current": "Established",
+            "current_level": "green",
+            "new": "Preliminary",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Competition",
+            "current": "Low",
+            "current_level": "green",
+            "new": "Medium",
+            "new_level": "yellow"
+          }
+        ]
+      }
+    },
+    "Web Intelligence Agent": {
+      "news": [
+        {
+          "headline": "New Study on TNF Inhibitors in Lung Fibrosis",
+          "source": "Nature News",
+          "date": "2025-10-20",
+          "summary": "Researchers are exploring anti-TNF therapies for pulmonary fibrosis in early clinical studies."
+        }
+      ],
+      "publications": [
+        {
+          "title": "TNF blockade in pulmonary fibrosis: experimental insights",
+          "journal": "American Journal of Respiratory and Critical Care Medicine",
+          "year": 2025,
+          "summary": "Review article summarizing preclinical data on TNF inhibition in fibrotic lung models."
+        }
+      ]
+    },
+    "Report Generator Agent": {
+      "title": "Report Compilation Progress",
+      "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Adalimumab.",
+      "sections": [
+        {
+          "title": "Executive Summary",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Market & Competitive Analysis",
+          "status": "Complete",
+          "color": "blue"
+        },
+        {
+          "title": "Clinical & Mechanistic Rationale",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Intellectual Property & FTO",
+          "status": "In Progress",
+          "color": "amber"
+        },
+        {
+          "title": "Final Report Status",
+          "status": "Finalizing",
+          "color": "amber"
+        }
+      ],
+      "report_file": "/reports/adalimumab_lungfibrosis_repurposing_report.pdf"
+    }
+  },
+  "fluoxetine_neurodegenerative": {
+    "query": "Evaluate repurposing opportunities for Fluoxetine (small molecule) in Alzheimer's Disease (neurology)",
+    "tasks": [
+      "Analyze unmet medical needs in Alzheimer's Disease therapy",
+      "Assess competitive products and market dynamics for neurology conditions",
+      "Search clinical trial registries for studies of Fluoxetine in Alzheimer's Disease",
+      "Review patent landscape focusing on Fluoxetine Alzheimer's Disease",
+      "Evaluate global market size and growth projections for neurology conditions",
+      "Identify key companies and therapies in CNS disorders area",
+      "Examine manufacturing and API sourcing considerations for Fluoxetine",
+      "Monitor recent scientific publications on Fluoxetine and neurodegeneration",
+      "Check regulatory status and approvals of Fluoxetine in new indication",
+      "Draft strategic recommendations for repurposing Fluoxetine into Alzheimer's Disease"
+    ],
+    "IQVIA Insights Agent": {
+      "market_forecast": {
+        "title": "Global Alzheimer's Disease Drug Market Forecast (USD Billions)",
+        "data": [
+          {
+            "year": "2022",
+            "value": 3.2
+          },
+          {
+            "year": "2023",
+            "value": 3.4
+          },
+          {
+            "year": "2024",
+            "value": 3.7
+          },
+          {
+            "year": "2025",
+            "value": 4.0
+          },
+          {
+            "year": "2026",
+            "value": 4.4
+          }
+        ]
+      },
+      "competitive_share": {
+        "title": "Competitive Market Share (2024)",
+        "data": [
+          {
+            "company": "Biogen (Aduhelm)",
+            "share": "40%"
+          },
+          {
+            "company": "Eli Lilly",
+            "share": "20%"
+          },
+          {
+            "company": "Roche",
+            "share": "15%"
+          },
+          {
+            "company": "Others",
+            "share": "~25%"
+          }
+        ]
+      }
+    },
+    "EXIM Trade Agent": {
+      "trade_volume": {
+        "title": "API Trade Volume Analysis",
+        "data": [
+          {
+            "country": "China",
+            "q2_2024": 50,
+            "q3_2024": 60,
+            "qoq_growth": "+20%"
+          },
+          {
+            "country": "India",
+            "q2_2024": 40,
+            "q3_2024": 50,
+            "qoq_growth": "+25%"
+          },
+          {
+            "country": "Brazil",
+            "q2_2024": 10,
+            "q3_2024": 12,
+            "qoq_growth": "+20%"
+          }
+        ]
+      },
+      "price_trends": {
+        "title": "API Price Trends (USD per kg or per unit)",
+        "data": [
+          {
+            "year": 2022,
+            "price": 40
+          },
+          {
+            "year": 2023,
+            "price": 42
+          },
+          {
+            "year": 2024,
+            "price": 43
+          }
+        ]
+      },
+      "import_risks": {
+        "title": "Import Risk Assessment",
+        "details": "Multiple generic sources; largely stable pricing"
+      }
+    },
+    "Clinical Trials Agent": {
+      "landscape_overview": {
+        "title": "Global Fluoxetine Clinical Trial Landscape",
+        "description": "Fluoxetine trials in neurodegenerative disease are limited, focusing on symptomatic outcomes."
+      },
+      "phase_distribution": {
+        "title": "Trial Phase Distribution",
+        "data": [
+          {
+            "phase": "Phase I",
+            "count": 1,
+            "color": "blue"
+          },
+          {
+            "phase": "Phase II",
+            "count": 2,
+            "color": "green"
+          },
+          {
+            "phase": "Phase III",
+            "count": 1,
+            "color": "amber"
+          }
+        ],
+        "description": "Early-phase trials predominate; no large Phase III studies yet."
+      },
+      "sponsor_profile": {
+        "title": "Sponsor & Research Profile",
+        "data": [
+          {
+            "sponsor": "University Hospitals",
+            "trial_count": 1,
+            "focus": "Alzheimer's cognitive effects"
+          },
+          {
+            "sponsor": "National Institutes of Health",
+            "trial_count": 1,
+            "focus": "Parkinson's depression"
+          },
+          {
+            "sponsor": "Biotech Startup",
+            "trial_count": 1,
+            "focus": "Dementia-related agitation"
+          }
+        ],
+        "description": "Mixed sponsorship suggests experimental exploration in neurology."
+      }
+    },
+    "Patent Landscape Agent": {
+      "landscape_overview": {
+        "title": "Patent Landscape Overview",
+        "sections": [
+          {
+            "label": "Core Patent Coverage",
+            "value": "Original antidepressant patents expired; formulation patents also expired"
+          },
+          {
+            "label": "Patent Expiry Timeline",
+            "value": "All related patents expired by early 2000s"
+          },
+          {
+            "label": "FTO Status",
+            "value": "Open FTO; no known constraints for repurposing"
+          }
+        ]
+      },
+      "repurposing_strategy": {
+        "title": "Strategic Repurposing Patent Strategy",
+        "high_confidence_targets": "Alzheimer's agitation (well-known serotonergic pathway)",
+        "medium_risk_areas": "Neuroprotection (less direct evidence)",
+        "low_priority": "Parkinson's motor symptoms"
+      },
+      "filing_heatmap": {
+        "title": "Patent Filings Over Time",
+        "data": [
+          {
+            "year": 2020,
+            "count": 0
+          },
+          {
+            "year": 2021,
+            "count": 0
+          },
+          {
+            "year": 2022,
+            "count": 0
+          },
+          {
+            "year": 2023,
+            "count": 0
+          },
+          {
+            "year": 2024,
+            "count": 0
+          }
+        ],
+        "description": "Filing trends indicate attention to related research areas."
+      },
+      "key_patent_extract": [
+        {
+          "patent": "US11223344B2",
+          "owner": "Academic",
+          "key_claim": "SSRIs for cognitive decline"
+        }
+      ],
+      "ip_opportunities": {
+        "title": "Key IP Opportunities",
+        "list": [
+          "Leverage expired patent for generic branding plus new formulations",
+          "Explore combination patents with cognitive enhancers"
+        ]
+      }
+    },
+    "Internal Knowledge Agent": {
+      "strategic_synthesis": {
+        "title": "Internal Knowledge Base – Strategic Synthesis",
+        "insights": [
+          {
+            "label": "Mechanism Fit",
+            "value": "Neuroprotective effects via serotonin; unproven"
+          },
+          {
+            "label": "Clinical Signal",
+            "value": "Case reports, but no clear benefit in trials"
+          },
+          {
+            "label": "Safety Profile",
+            "value": "Well-understood SSRIs; low safety concern for elderly"
+          }
+        ]
+      },
+      "cross_indication_comparison": {
+        "title": "Cross-Indication Strategic Comparison",
+        "dimensions": [
+          {
+            "dimension": "Commercial Readiness",
+            "current": "High (Depression)",
+            "current_level": "green",
+            "new": "Low (Alzheimer's)",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Risk of Off-Label Use",
+            "current": "Low",
+            "current_level": "green",
+            "new": "Moderate",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Competition",
+            "current": "Low",
+            "current_level": "green",
+            "new": "High (CNS drugs)",
+            "new_level": "red"
+          }
+        ]
+      }
+    },
+    "Web Intelligence Agent": {
+      "news": [
+        {
+          "headline": "Fluoxetine Shows New Neurological Benefits in Early Study",
+          "source": "MedPage Today",
+          "date": "2025-08-10",
+          "summary": "Preliminary research suggests Fluoxetine may improve cognitive function in early Alzheimer's patients."
+        }
+      ],
+      "publications": [
+        {
+          "title": "SSRIs and neuroinflammation: implications for Alzheimer's disease",
+          "journal": "Journal of Neurochemistry",
+          "year": 2025,
+          "summary": "Review article discussing the potential neuroprotective effects of SSRIs in neurodegenerative conditions."
+        }
+      ]
+    },
+    "Report Generator Agent": {
+      "title": "Report Compilation Progress",
+      "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Fluoxetine.",
+      "sections": [
+        {
+          "title": "Executive Summary",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Market & Competitive Analysis",
+          "status": "Complete",
+          "color": "blue"
+        },
+        {
+          "title": "Clinical & Mechanistic Rationale",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Intellectual Property & FTO",
+          "status": "In Progress",
+          "color": "amber"
+        },
+        {
+          "title": "Final Report Status",
+          "status": "Finalizing",
+          "color": "amber"
+        }
+      ],
+      "report_file": "/reports/fluoxetine_neurodegenerative_repurposing_report.pdf"
+    }
+  },
+  "pembrolizumab_NASH": {
+    "query": "Evaluate repurposing opportunities for Pembrolizumab (biologic) in Non-Alcoholic Steatohepatitis (hepatology)",
+    "tasks": [
+      "Analyze unmet medical needs in Non-Alcoholic Steatohepatitis therapy",
+      "Assess competitive products and market dynamics for hepatology conditions",
+      "Search clinical trial registries for studies of Pembrolizumab in Non-Alcoholic Steatohepatitis",
+      "Review patent landscape focusing on Pembrolizumab Non-Alcoholic Steatohepatitis",
+      "Evaluate global market size and growth projections for hepatology conditions",
+      "Identify key companies and therapies in immuno-oncology area",
+      "Examine manufacturing and API sourcing considerations for Pembrolizumab",
+      "Monitor recent scientific publications on Pembrolizumab and NASH",
+      "Check regulatory status and approvals of Pembrolizumab in new indication",
+      "Draft strategic recommendations for repurposing Pembrolizumab into Non-Alcoholic Steatohepatitis"
+    ],
+    "IQVIA Insights Agent": {
+      "market_forecast": {
+        "title": "Global NASH Treatment Market Forecast (USD Billions)",
+        "data": [
+          {
+            "year": "2022",
+            "value": 0.8
+          },
+          {
+            "year": "2023",
+            "value": 1.0
+          },
+          {
+            "year": "2024",
+            "value": 1.3
+          },
+          {
+            "year": "2025",
+            "value": 1.7
+          },
+          {
+            "year": "2026",
+            "value": 2.2
+          }
+        ]
+      },
+      "competitive_share": {
+        "title": "Competitive Market Share (2024)",
+        "data": [
+          {
+            "company": "Intercept Pharmaceuticals",
+            "share": "50%"
+          },
+          {
+            "company": "Novartis",
+            "share": "20%"
+          },
+          {
+            "company": "Merck (Keytruda)",
+            "share": "15%"
+          },
+          {
+            "company": "Others",
+            "share": "~15%"
+          }
+        ]
+      }
+    },
+    "EXIM Trade Agent": {
+      "trade_volume": {
+        "title": "API Trade Volume Analysis",
+        "data": [
+          {
+            "country": "USA",
+            "q2_2024": 2,
+            "q3_2024": 3,
+            "qoq_growth": "+50%"
+          },
+          {
+            "country": "EU (Belgium)",
+            "q2_2024": 2,
+            "q3_2024": 2,
+            "qoq_growth": "0%"
+          },
+          {
+            "country": "India",
+            "q2_2024": 0,
+            "q3_2024": 1,
+            "qoq_growth": "+∞"
+          }
+        ]
+      },
+      "price_trends": {
+        "title": "API Price Trends (USD per kg or per unit)",
+        "data": [
+          {
+            "year": 2022,
+            "price": 6000
+          },
+          {
+            "year": 2023,
+            "price": 6200
+          },
+          {
+            "year": 2024,
+            "price": 6100
+          }
+        ]
+      },
+      "import_risks": {
+        "title": "Import Risk Assessment",
+        "details": "Single-source (Merck); high cost; supply chain concentrated"
+      }
+    },
+    "Clinical Trials Agent": {
+      "landscape_overview": {
+        "title": "Global Pembrolizumab Clinical Trial Landscape",
+        "description": "Exploratory trials are evaluating immunotherapy effects in NASH."
+      },
+      "phase_distribution": {
+        "title": "Trial Phase Distribution",
+        "data": [
+          {
+            "phase": "Phase I",
+            "count": 1,
+            "color": "blue"
+          },
+          {
+            "phase": "Phase II",
+            "count": 2,
+            "color": "green"
+          },
+          {
+            "phase": "Phase III",
+            "count": 0,
+            "color": "amber"
+          }
+        ],
+        "description": "Only early-phase trials are underway for NASH."
+      },
+      "sponsor_profile": {
+        "title": "Sponsor & Research Profile",
+        "data": [
+          {
+            "sponsor": "Merck",
+            "trial_count": 1,
+            "focus": "NASH Immunoediting"
+          },
+          {
+            "sponsor": "Yale University",
+            "trial_count": 1,
+            "focus": "Liver Inflammation"
+          },
+          {
+            "sponsor": "Academic Research",
+            "trial_count": 1,
+            "focus": "Metabolic Syndrome"
+          }
+        ],
+        "description": "Collaboration between Merck and academic centers investigating NASH."
+      }
+    },
+    "Patent Landscape Agent": {
+      "landscape_overview": {
+        "title": "Patent Landscape Overview",
+        "sections": [
+          {
+            "label": "Core Patent Coverage",
+            "value": "Active patents on composition and use in cancers; no direct NASH claims"
+          },
+          {
+            "label": "Patent Expiry Timeline",
+            "value": "Key patents expire ~2028; potential new filings possible"
+          },
+          {
+            "label": "FTO Status",
+            "value": "High risk due to broad immuno-oncology patents, but NASH-specific claims absent"
+          }
+        ]
+      },
+      "repurposing_strategy": {
+        "title": "Strategic Repurposing Patent Strategy",
+        "high_confidence_targets": "NASH fibrosis treatment (novel immuno-oncology indication)",
+        "medium_risk_areas": "Other metabolic diseases (patent by analogy)",
+        "low_priority": "Non-inflammatory indications"
+      },
+      "filing_heatmap": {
+        "title": "Patent Filings Over Time",
+        "data": [
+          {
+            "year": 2020,
+            "count": 5
+          },
+          {
+            "year": 2021,
+            "count": 6
+          },
+          {
+            "year": 2022,
+            "count": 4
+          },
+          {
+            "year": 2023,
+            "count": 3
+          },
+          {
+            "year": 2024,
+            "count": 2
+          }
+        ],
+        "description": "Filing trends indicate attention to related research areas."
+      },
+      "key_patent_extract": [
+        {
+          "patent": "US12349876B2",
+          "owner": "Merck",
+          "key_claim": "PD-1 inhibitors for fibrotic disease"
+        },
+        {
+          "patent": "WO2022123456A1",
+          "owner": "Merck",
+          "key_claim": "Immunotherapy in metabolic syndrome"
+        }
+      ],
+      "ip_opportunities": {
+        "title": "Key IP Opportunities",
+        "list": [
+          "Method-of-use claims for NASH treatment",
+          "Patenting combination with anti-fibrotics"
+        ]
+      }
+    },
+    "Internal Knowledge Agent": {
+      "strategic_synthesis": {
+        "title": "Internal Knowledge Base – Strategic Synthesis",
+        "insights": [
+          {
+            "label": "Mechanism Fit",
+            "value": "Immune modulation in liver pathology; novel approach"
+          },
+          {
+            "label": "Clinical Signal",
+            "value": "Early trials, some biomarkers suggest potential"
+          },
+          {
+            "label": "Safety Considerations",
+            "value": "Immune therapy risks in fatty liver disease"
+          }
+        ]
+      },
+      "cross_indication_comparison": {
+        "title": "Cross-Indication Strategic Comparison",
+        "dimensions": [
+          {
+            "dimension": "Commercial Readiness",
+            "current": "High (Oncology)",
+            "current_level": "green",
+            "new": "Low (NASH)",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Safety Profile",
+            "current": "Moderate",
+            "current_level": "green",
+            "new": "Moderate/High",
+            "new_level": "amber"
+          },
+          {
+            "dimension": "Competition",
+            "current": "Very High",
+            "current_level": "red",
+            "new": "Moderate",
+            "new_level": "yellow"
+          }
+        ]
+      }
+    },
+    "Web Intelligence Agent": {
+      "news": [
+        {
+          "headline": "Pembrolizumab Shows Anti-Fibrotic Activity in Mouse Model of NASH",
+          "source": "ScienceDaily",
+          "date": "2026-03-01",
+          "summary": "Researchers report PD-1 blockade reduced liver fibrosis markers in a preclinical study."
+        }
+      ],
+      "publications": [
+        {
+          "title": "Immune checkpoint therapy for liver diseases: new insights",
+          "journal": "Hepatology",
+          "year": 2025,
+          "summary": "Review article discussing emerging roles of checkpoint inhibitors in liver disease."
+        }
+      ]
+    },
+    "Report Generator Agent": {
+      "title": "Report Compilation Progress",
+      "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Pembrolizumab.",
+      "sections": [
+        {
+          "title": "Executive Summary",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Market & Competitive Analysis",
+          "status": "Complete",
+          "color": "blue"
+        },
+        {
+          "title": "Clinical & Mechanistic Rationale",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Intellectual Property & FTO",
+          "status": "In Progress",
+          "color": "amber"
+        },
+        {
+          "title": "Final Report Status",
+          "status": "Finalizing",
+          "color": "amber"
+        }
+      ],
+      "report_file": "/reports/pembrolizumab_NASH_repurposing_report.pdf"
+    }
+  },
+  "omeprazole_osteoporosis": {
+    "query": "Evaluate repurposing opportunities for Omeprazole (small molecule) in Osteoporosis (endocrinology)",
+    "tasks": [
+      "Analyze unmet medical needs in Osteoporosis therapy",
+      "Assess competitive products and market dynamics for endocrinology conditions",
+      "Search clinical trial registries for studies of Omeprazole in Osteoporosis",
+      "Review patent landscape focusing on Omeprazole Osteoporosis",
+      "Evaluate global market size and growth projections for endocrinology conditions",
+      "Identify key companies and therapies in gastroenterology to bone area",
+      "Examine manufacturing and API sourcing considerations for Omeprazole",
+      "Monitor recent scientific publications on Omeprazole and bone health",
+      "Check regulatory status and approvals of Omeprazole in new indication",
+      "Draft strategic recommendations for repurposing Omeprazole into Osteoporosis"
+    ],
+    "IQVIA Insights Agent": {
+      "market_forecast": {
+        "title": "Global Osteoporosis Drug Market Forecast (USD Billions)",
+        "data": [
+          {
+            "year": "2022",
+            "value": 10.5
+          },
+          {
+            "year": "2023",
+            "value": 11.0
+          },
+          {
+            "year": "2024",
+            "value": 11.4
+          },
+          {
+            "year": "2025",
+            "value": 11.8
+          },
+          {
+            "year": "2026",
+            "value": 12.3
+          }
+        ]
+      },
+      "competitive_share": {
+        "title": "Competitive Market Share (2024)",
+        "data": [
+          {
+            "company": "AstraZeneca (Protonix)",
+            "share": "35%"
+          },
+          {
+            "company": "Pfizer (Prevacid)",
+            "share": "25%"
+          },
+          {
+            "company": "Kowa (Evista)",
+            "share": "20%"
+          },
+          {
+            "company": "Others",
+            "share": "~20%"
+          }
+        ]
+      }
+    },
+    "EXIM Trade Agent": {
+      "trade_volume": {
+        "title": "API Trade Volume Analysis",
+        "data": [
+          {
+            "country": "India",
+            "q2_2024": 100,
+            "q3_2024": 120,
+            "qoq_growth": "+20%"
+          },
+          {
+            "country": "China",
+            "q2_2024": 80,
+            "q3_2024": 85,
+            "qoq_growth": "+6%"
+          },
+          {
+            "country": "Turkey",
+            "q2_2024": 20,
+            "q3_2024": 25,
+            "qoq_growth": "+25%"
+          }
+        ]
+      },
+      "price_trends": {
+        "title": "API Price Trends (USD per kg or per unit)",
+        "data": [
+          {
+            "year": 2022,
+            "price": 100
+          },
+          {
+            "year": 2023,
+            "price": 105
+          },
+          {
+            "year": 2024,
+            "price": 102
+          }
+        ]
+      },
+      "import_risks": {
+        "title": "Import Risk Assessment",
+        "details": "Generics widespread; minimal supply risk"
+      }
+    },
+    "Clinical Trials Agent": {
+      "landscape_overview": {
+        "title": "Global Omeprazole Clinical Trial Landscape",
+        "description": "Few trials examine PPI effects on bone health; evidence is largely from observational studies."
+      },
+      "phase_distribution": {
+        "title": "Trial Phase Distribution",
+        "data": [
+          {
+            "phase": "Phase I",
+            "count": 0,
+            "color": "blue"
+          },
+          {
+            "phase": "Phase II",
+            "count": 1,
+            "color": "green"
+          },
+          {
+            "phase": "Phase III",
+            "count": 1,
+            "color": "amber"
+          }
+        ],
+        "description": "Limited interventional studies; mostly association analyses."
+      },
+      "sponsor_profile": {
+        "title": "Sponsor & Research Profile",
+        "data": [
+          {
+            "sponsor": "GSK",
+            "trial_count": 1,
+            "focus": "Bone Density Impact"
+          },
+          {
+            "sponsor": "NIH",
+            "trial_count": 1,
+            "focus": "Gastro vs Bone Outcome"
+          }
+        ],
+        "description": "Small-scale trials funded by pharma and government."
+      }
+    },
+    "Patent Landscape Agent": {
+      "landscape_overview": {
+        "title": "Patent Landscape Overview",
+        "sections": [
+          {
+            "label": "Core Patent Coverage",
+            "value": "PPIs composition patents expired; no bone-related claims exist"
+          },
+          {
+            "label": "Patent Expiry Timeline",
+            "value": "All omeprazole patents expired by 2010s"
+          },
+          {
+            "label": "FTO Status",
+            "value": "Open FTO; generic product widely available"
+          }
+        ]
+      },
+      "repurposing_strategy": {
+        "title": "Strategic Repurposing Patent Strategy",
+        "high_confidence_targets": "Fracture prevention (focus on specific populations)",
+        "medium_risk_areas": "Metabolic bone disease (broad prior art)",
+        "low_priority": "General osteoporosis"
+      },
+      "filing_heatmap": {
+        "title": "Patent Filings Over Time",
+        "data": [
+          {
+            "year": 2020,
+            "count": 0
+          },
+          {
+            "year": 2021,
+            "count": 1
+          },
+          {
+            "year": 2022,
+            "count": 0
+          },
+          {
+            "year": 2023,
+            "count": 1
+          },
+          {
+            "year": 2024,
+            "count": 0
+          }
+        ],
+        "description": "Filing trends indicate attention to related research areas."
+      },
+      "key_patent_extract": [
+        {
+          "patent": "US55667788B2",
+          "owner": "GSK",
+          "key_claim": "Delayed-release PPI formulations for bone health"
+        }
+      ],
+      "ip_opportunities": {
+        "title": "Key IP Opportunities",
+        "list": [
+          "Develop novel dosing strategies with IP coverage",
+          "File patents on targeted delivery to bone tissue"
+        ]
+      }
+    },
+    "Internal Knowledge Agent": {
+      "strategic_synthesis": {
+        "title": "Internal Knowledge Base – Strategic Synthesis",
+        "insights": [
+          {
+            "label": "Mechanism Fit",
+            "value": "PPIs may affect calcium uptake; indirect bone effects"
+          },
+          {
+            "label": "Clinical Evidence",
+            "value": "Data suggests long-term PPI use might reduce bone density"
+          },
+          {
+            "label": "Market Potential",
+            "value": "Limited by generics and established osteoporosis treatments"
+          }
+        ]
+      },
+      "cross_indication_comparison": {
+        "title": "Cross-Indication Strategic Comparison",
+        "dimensions": [
+          {
+            "dimension": "Commercial Readiness",
+            "current": "High (GERD)",
+            "current_level": "green",
+            "new": "Very Low",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Evidence Strength",
+            "current": "Moderate",
+            "current_level": "green",
+            "new": "Weak",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Competition",
+            "current": "Low",
+            "current_level": "green",
+            "new": "Very High",
+            "new_level": "red"
+          }
+        ]
+      }
+    },
+    "Web Intelligence Agent": {
+      "news": [
+        {
+          "headline": "New Study Links Long-Term PPI Use to Bone Density Changes",
+          "source": "Endocrine Today",
+          "date": "2026-01-15",
+          "summary": "Observational data show chronic Omeprazole users may have higher fracture risk."
+        }
+      ],
+      "publications": [
+        {
+          "title": "Proton pump inhibitors and fracture risk: a clinical review",
+          "journal": "Journal of Bone and Mineral Research",
+          "year": 2025,
+          "summary": "Review summarizing evidence of bone metabolism changes with chronic PPI therapy."
+        }
+      ]
+    },
+    "Report Generator Agent": {
+      "title": "Report Compilation Progress",
+      "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Omeprazole.",
+      "sections": [
+        {
+          "title": "Executive Summary",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Market & Competitive Analysis",
+          "status": "Complete",
+          "color": "blue"
+        },
+        {
+          "title": "Clinical & Mechanistic Rationale",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Intellectual Property & FTO",
+          "status": "In Progress",
+          "color": "amber"
+        },
+        {
+          "title": "Final Report Status",
+          "status": "Finalizing",
+          "color": "amber"
+        }
+      ],
+      "report_file": "/reports/omeprazole_osteoporosis_repurposing_report.pdf"
+    }
+  },
+  "rituximab_parkinson": {
+    "query": "Evaluate repurposing opportunities for Rituximab (biologic) in Parkinson's Disease (neurology)",
+    "tasks": [
+      "Analyze unmet medical needs in Parkinson's Disease therapy",
+      "Assess competitive products and market dynamics for neurology conditions",
+      "Search clinical trial registries for studies of Rituximab in Parkinson's Disease",
+      "Review patent landscape focusing on Rituximab Parkinson's Disease",
+      "Evaluate global market size and growth projections for neurology conditions",
+      "Identify key companies and therapies in autoimmune neurology area",
+      "Examine manufacturing and API sourcing considerations for Rituximab",
+      "Monitor recent scientific publications on Rituximab and Parkinson's",
+      "Check regulatory status and approvals of Rituximab in new indication",
+      "Draft strategic recommendations for repurposing Rituximab into Parkinson's Disease"
+    ],
+    "IQVIA Insights Agent": {
+      "market_forecast": {
+        "title": "Global Parkinson's Disease Treatment Market Forecast (USD Billions)",
+        "data": [
+          {
+            "year": "2022",
+            "value": 6.0
+          },
+          {
+            "year": "2023",
+            "value": 6.2
+          },
+          {
+            "year": "2024",
+            "value": 6.5
+          },
+          {
+            "year": "2025",
+            "value": 6.8
+          },
+          {
+            "year": "2026",
+            "value": 7.0
+          }
+        ]
+      },
+      "competitive_share": {
+        "title": "Competitive Market Share (2024)",
+        "data": [
+          {
+            "company": "AbbVie (Duodopa)",
+            "share": "30%"
+          },
+          {
+            "company": "Teva (Azilect)",
+            "share": "20%"
+          },
+          {
+            "company": "Roche",
+            "share": "15%"
+          },
+          {
+            "company": "Others",
+            "share": "~35%"
+          }
+        ]
+      }
+    },
+    "EXIM Trade Agent": {
+      "trade_volume": {
+        "title": "API Trade Volume Analysis",
+        "data": [
+          {
+            "country": "EU (Germany)",
+            "q2_2024": 5,
+            "q3_2024": 6,
+            "qoq_growth": "+20%"
+          },
+          {
+            "country": "USA",
+            "q2_2024": 4,
+            "q3_2024": 5,
+            "qoq_growth": "+25%"
+          },
+          {
+            "country": "India",
+            "q2_2024": 1,
+            "q3_2024": 1,
+            "qoq_growth": "0%"
+          }
+        ]
+      },
+      "price_trends": {
+        "title": "API Price Trends (USD per kg or per unit)",
+        "data": [
+          {
+            "year": 2022,
+            "price": 5000
+          },
+          {
+            "year": 2023,
+            "price": 4800
+          },
+          {
+            "year": 2024,
+            "price": 4900
+          }
+        ]
+      },
+      "import_risks": {
+        "title": "Import Risk Assessment",
+        "details": "Patent expired; biosimilar entry; moderate supply diversity"
+      }
+    },
+    "Clinical Trials Agent": {
+      "landscape_overview": {
+        "title": "Global Rituximab Clinical Trial Landscape",
+        "description": "Investigations of B-cell depletion in Parkinson's disease are highly experimental."
+      },
+      "phase_distribution": {
+        "title": "Trial Phase Distribution",
+        "data": [
+          {
+            "phase": "Phase I",
+            "count": 0,
+            "color": "blue"
+          },
+          {
+            "phase": "Phase II",
+            "count": 1,
+            "color": "green"
+          },
+          {
+            "phase": "Phase III",
+            "count": 0,
+            "color": "amber"
+          }
+        ],
+        "description": "Only a handful of exploratory studies; no late-stage trials."
+      },
+      "sponsor_profile": {
+        "title": "Sponsor & Research Profile",
+        "data": [
+          {
+            "sponsor": "Academic Research",
+            "trial_count": 1,
+            "focus": "Neuroinflammation in PD"
+          }
+        ],
+        "description": "Preliminary study by an academic neurology group."
+      }
+    },
+    "Patent Landscape Agent": {
+      "landscape_overview": {
+        "title": "Patent Landscape Overview",
+        "sections": [
+          {
+            "label": "Core Patent Coverage",
+            "value": "Primary patents expired; method use patents for neurology sparse"
+          },
+          {
+            "label": "Patent Expiry Timeline",
+            "value": "Patents expired ~2016; biosimilar entries around 2020"
+          },
+          {
+            "label": "FTO Status",
+            "value": "Moderate risk; repurposing claims can be drafted new"
+          }
+        ]
+      },
+      "repurposing_strategy": {
+        "title": "Strategic Repurposing Patent Strategy",
+        "high_confidence_targets": "Autoimmune neurology (MS, Parkinson's with autoimmune component)",
+        "medium_risk_areas": "Idiopathic Parkinson's (less clear mechanism)",
+        "low_priority": "Other movement disorders"
+      },
+      "filing_heatmap": {
+        "title": "Patent Filings Over Time",
+        "data": [
+          {
+            "year": 2020,
+            "count": 1
+          },
+          {
+            "year": 2021,
+            "count": 1
+          },
+          {
+            "year": 2022,
+            "count": 1
+          },
+          {
+            "year": 2023,
+            "count": 0
+          },
+          {
+            "year": 2024,
+            "count": 0
+          }
+        ],
+        "description": "Filing trends indicate attention to related research areas."
+      },
+      "key_patent_extract": [
+        {
+          "patent": "EP99887766B1",
+          "owner": "Roche",
+          "key_claim": "Anti-CD20 antibodies in neurological disorders"
+        }
+      ],
+      "ip_opportunities": {
+        "title": "Key IP Opportunities",
+        "list": [
+          "New claims on B-cell roles in Parkinson's",
+          "Combine with biomarkers for AD claims"
+        ]
+      }
+    },
+    "Internal Knowledge Agent": {
+      "strategic_synthesis": {
+        "title": "Internal Knowledge Base – Strategic Synthesis",
+        "insights": [
+          {
+            "label": "Mechanism Fit",
+            "value": "Emerging idea of immune component; largely speculative"
+          },
+          {
+            "label": "Clinical Signal",
+            "value": "Very preliminary; few case studies"
+          },
+          {
+            "label": "Patient Impact",
+            "value": "High if effective; but risk of heavy immunosuppression"
+          }
+        ]
+      },
+      "cross_indication_comparison": {
+        "title": "Cross-Indication Strategic Comparison",
+        "dimensions": [
+          {
+            "dimension": "Commercial Readiness",
+            "current": "High (RA/Neuroimmunology)",
+            "current_level": "green",
+            "new": "Low",
+            "new_level": "red"
+          },
+          {
+            "dimension": "Scientific Plausibility",
+            "current": "Established",
+            "current_level": "green",
+            "new": "Theoretical",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Risk Factor",
+            "current": "Moderate",
+            "current_level": "green",
+            "new": "High",
+            "new_level": "red"
+          }
+        ]
+      }
+    },
+    "Web Intelligence Agent": {
+      "news": [
+        {
+          "headline": "Pilot Study of Rituximab in Parkinson's Shows Early Tolerability",
+          "source": "Neurology Today",
+          "date": "2025-09-12",
+          "summary": "Initial small study suggests Rituximab is tolerated but no clear benefit yet in PD."
+        }
+      ],
+      "publications": [
+        {
+          "title": "B cells in Parkinson's Disease pathology",
+          "journal": "Movement Disorders",
+          "year": 2025,
+          "summary": "Research article exploring the potential role of B-cell depletion in Parkinson's models."
+        }
+      ]
+    },
+    "Report Generator Agent": {
+      "title": "Report Compilation Progress",
+      "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Rituximab.",
+      "sections": [
+        {
+          "title": "Executive Summary",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Market & Competitive Analysis",
+          "status": "Complete",
+          "color": "blue"
+        },
+        {
+          "title": "Clinical & Mechanistic Rationale",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Intellectual Property & FTO",
+          "status": "In Progress",
+          "color": "amber"
+        },
+        {
+          "title": "Final Report Status",
+          "status": "Finalizing",
+          "color": "amber"
+        }
+      ],
+      "report_file": "/reports/rituximab_parkinson_repurposing_report.pdf"
+    }
+  },
+  "ketamine_chronic_pain": {
+    "query": "Evaluate repurposing opportunities for Ketamine (small molecule) in Chronic Neuropathic Pain (pain)",
+    "tasks": [
+      "Analyze unmet medical needs in Chronic Neuropathic Pain therapy",
+      "Assess competitive products and market dynamics for pain management",
+      "Search clinical trial registries for studies of Ketamine in Chronic Neuropathic Pain",
+      "Review patent landscape focusing on Ketamine Chronic Neuropathic Pain",
+      "Evaluate global market size and growth projections for pain therapeutics",
+      "Identify key companies and therapies in anesthesia and pain management area",
+      "Examine manufacturing and API sourcing considerations for Ketamine",
+      "Monitor recent scientific publications on Ketamine and chronic pain",
+      "Check regulatory status and approvals of Ketamine in new indication",
+      "Draft strategic recommendations for repurposing Ketamine into Chronic Neuropathic Pain"
+    ],
+    "IQVIA Insights Agent": {
+      "market_forecast": {
+        "title": "Global Chronic Pain Therapies Market Forecast (USD Billions)",
+        "data": [
+          {
+            "year": "2022",
+            "value": 15.0
+          },
+          {
+            "year": "2023",
+            "value": 15.5
+          },
+          {
+            "year": "2024",
+            "value": 16.0
+          },
+          {
+            "year": "2025",
+            "value": 16.8
+          },
+          {
+            "year": "2026",
+            "value": 17.5
+          }
+        ]
+      },
+      "competitive_share": {
+        "title": "Competitive Market Share (2024)",
+        "data": [
+          {
+            "company": "Johnson & Johnson",
+            "share": "25%"
+          },
+          {
+            "company": "Mundipharma",
+            "share": "20%"
+          },
+          {
+            "company": "Depomed",
+            "share": "15%"
+          },
+          {
+            "company": "Others",
+            "share": "~40%"
+          }
+        ]
+      }
+    },
+    "EXIM Trade Agent": {
+      "trade_volume": {
+        "title": "API Trade Volume Analysis",
+        "data": [
+          {
+            "country": "USA",
+            "q2_2024": 50,
+            "q3_2024": 55,
+            "qoq_growth": "+10%"
+          },
+          {
+            "country": "Mexico",
+            "q2_2024": 10,
+            "q3_2024": 12,
+            "qoq_growth": "+20%"
+          },
+          {
+            "country": "India",
+            "q2_2024": 20,
+            "q3_2024": 25,
+            "qoq_growth": "+25%"
+          }
+        ]
+      },
+      "price_trends": {
+        "title": "API Price Trends (USD per kg or per unit)",
+        "data": [
+          {
+            "year": 2022,
+            "price": 20
+          },
+          {
+            "year": 2023,
+            "price": 22
+          },
+          {
+            "year": 2024,
+            "price": 23
+          }
+        ]
+      },
+      "import_risks": {
+        "title": "Import Risk Assessment",
+        "details": "Controlled substance; regulatory scrutiny"
+      }
+    },
+    "Clinical Trials Agent": {
+      "landscape_overview": {
+        "title": "Global Ketamine Clinical Trial Landscape",
+        "description": "Multiple trials explore ketamine for chronic pain, reflecting growing interest in NMDA-targeted therapies."
+      },
+      "phase_distribution": {
+        "title": "Trial Phase Distribution",
+        "data": [
+          {
+            "phase": "Phase I",
+            "count": 2,
+            "color": "blue"
+          },
+          {
+            "phase": "Phase II",
+            "count": 4,
+            "color": "green"
+          },
+          {
+            "phase": "Phase III",
+            "count": 1,
+            "color": "amber"
+          }
+        ],
+        "description": "Several Phase II trials, few progressed to Phase III for chronic pain."
+      },
+      "sponsor_profile": {
+        "title": "Sponsor & Research Profile",
+        "data": [
+          {
+            "sponsor": "Janssen",
+            "trial_count": 2,
+            "focus": "Treatment-Resistant Pain"
+          },
+          {
+            "sponsor": "National Institutes of Health",
+            "trial_count": 2,
+            "focus": "Complex Regional Pain Syndrome"
+          },
+          {
+            "sponsor": "University Pain Clinic",
+            "trial_count": 1,
+            "focus": "Neuropathic Pain Study"
+          }
+        ],
+        "description": "Combination of industry and NIH-sponsored trials on ketamine pain use."
+      }
+    },
+    "Patent Landscape Agent": {
+      "landscape_overview": {
+        "title": "Patent Landscape Overview",
+        "sections": [
+          {
+            "label": "Core Patent Coverage",
+            "value": "Generic anesthetic; no current patents active on ketamine itself"
+          },
+          {
+            "label": "Patent Expiry Timeline",
+            "value": "All patents expired decades ago"
+          },
+          {
+            "label": "FTO Status",
+            "value": "Open FTO; only formulation patents possible"
+          }
+        ]
+      },
+      "repurposing_strategy": {
+        "title": "Strategic Repurposing Patent Strategy",
+        "high_confidence_targets": "Neuropathic pain and depression (well-studied areas)",
+        "medium_risk_areas": "Other chronic pain syndromes",
+        "low_priority": "Acute pain"
+      },
+      "filing_heatmap": {
+        "title": "Patent Filings Over Time",
+        "data": [
+          {
+            "year": 2020,
+            "count": 0
+          },
+          {
+            "year": 2021,
+            "count": 2
+          },
+          {
+            "year": 2022,
+            "count": 1
+          },
+          {
+            "year": 2023,
+            "count": 1
+          },
+          {
+            "year": 2024,
+            "count": 1
+          }
+        ],
+        "description": "Filing trends indicate attention to related research areas."
+      },
+      "key_patent_extract": [
+        {
+          "patent": "US66778899B2",
+          "owner": "NewCo",
+          "key_claim": "Ketamine metabolites for pain relief"
+        }
+      ],
+      "ip_opportunities": {
+        "title": "Key IP Opportunities",
+        "list": [
+          "Formulation patents (e.g. nasal sprays, patches)",
+          "Combination therapy patents"
+        ]
+      }
+    },
+    "Internal Knowledge Agent": {
+      "strategic_synthesis": {
+        "title": "Internal Knowledge Base – Strategic Synthesis",
+        "insights": [
+          {
+            "label": "Mechanism Fit",
+            "value": "NMDA antagonism directly addresses pain signaling"
+          },
+          {
+            "label": "Clinical Evidence",
+            "value": "Multiple studies show pain relief; off-label use is growing"
+          },
+          {
+            "label": "Regulatory Status",
+            "value": "Emerging approvals for depression; pain indications evolving"
+          }
+        ]
+      },
+      "cross_indication_comparison": {
+        "title": "Cross-Indication Strategic Comparison",
+        "dimensions": [
+          {
+            "dimension": "Commercial Readiness",
+            "current": "Medium (anesthesia)",
+            "current_level": "yellow",
+            "new": "High",
+            "new_level": "green"
+          },
+          {
+            "dimension": "Clinical Adoption",
+            "current": "Low",
+            "current_level": "yellow",
+            "new": "Growing",
+            "new_level": "green"
+          },
+          {
+            "dimension": "Competition",
+            "current": "Low",
+            "current_level": "green",
+            "new": "Moderate",
+            "new_level": "yellow"
+          }
+        ]
+      }
+    },
+    "Web Intelligence Agent": {
+      "news": [
+        {
+          "headline": "Ketamine Eases Neuropathic Pain in Clinical Study",
+          "source": "Science News",
+          "date": "2026-05-22",
+          "summary": "Clinical trial reports significant pain reduction in patients treated with low-dose ketamine."
+        }
+      ],
+      "publications": [
+        {
+          "title": "Ketamine’s role in chronic pain management",
+          "journal": "Pain Research & Management",
+          "year": 2025,
+          "summary": "Clinical review on the efficacy of ketamine infusions for refractory pain conditions."
+        }
+      ]
+    },
+    "Report Generator Agent": {
+      "title": "Report Compilation Progress",
+      "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Ketamine.",
+      "sections": [
+        {
+          "title": "Executive Summary",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Market & Competitive Analysis",
+          "status": "Complete",
+          "color": "blue"
+        },
+        {
+          "title": "Clinical & Mechanistic Rationale",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Intellectual Property & FTO",
+          "status": "In Progress",
+          "color": "amber"
+        },
+        {
+          "title": "Final Report Status",
+          "status": "Finalizing",
+          "color": "amber"
+        }
+      ],
+      "report_file": "/reports/ketamine_chronic_pain_repurposing_report.pdf"
+    }
+  },
+  "pioglitazone_alzheimer": {
+    "query": "Evaluate repurposing opportunities for Pioglitazone (small molecule) in Alzheimer's Disease (neurology)",
+    "tasks": [
+      "Analyze unmet medical needs in Alzheimer's Disease therapy",
+      "Assess competitive products and market dynamics for neurology conditions",
+      "Search clinical trial registries for studies of Pioglitazone in Alzheimer's Disease",
+      "Review patent landscape focusing on Pioglitazone Alzheimer's Disease",
+      "Evaluate global market size and growth projections for neurology conditions",
+      "Identify key companies and therapies in diabetes to neurodegeneration area",
+      "Examine manufacturing and API sourcing considerations for Pioglitazone",
+      "Monitor recent scientific publications on Pioglitazone and cognitive decline",
+      "Check regulatory status and approvals of Pioglitazone in new indication",
+      "Draft strategic recommendations for repurposing Pioglitazone into Alzheimer's Disease"
+    ],
+    "IQVIA Insights Agent": {
+      "market_forecast": {
+        "title": "Global Alzheimer's Disease Treatment Market Forecast (USD Billions)",
+        "data": [
+          {
+            "year": "2022",
+            "value": 3.2
+          },
+          {
+            "year": "2023",
+            "value": 3.4
+          },
+          {
+            "year": "2024",
+            "value": 3.7
+          },
+          {
+            "year": "2025",
+            "value": 4.0
+          },
+          {
+            "year": "2026",
+            "value": 4.4
+          }
+        ]
+      },
+      "competitive_share": {
+        "title": "Competitive Market Share (2024)",
+        "data": [
+          {
+            "company": "Biogen",
+            "share": "40%"
+          },
+          {
+            "company": "Eli Lilly",
+            "share": "20%"
+          },
+          {
+            "company": "Roche",
+            "share": "15%"
+          },
+          {
+            "company": "Others",
+            "share": "~25%"
+          }
+        ]
+      }
+    },
+    "EXIM Trade Agent": {
+      "trade_volume": {
+        "title": "API Trade Volume Analysis",
+        "data": [
+          {
+            "country": "China",
+            "q2_2024": 30,
+            "q3_2024": 35,
+            "qoq_growth": "+17%"
+          },
+          {
+            "country": "India",
+            "q2_2024": 20,
+            "q3_2024": 25,
+            "qoq_growth": "+25%"
+          },
+          {
+            "country": "UK",
+            "q2_2024": 5,
+            "q3_2024": 6,
+            "qoq_growth": "+20%"
+          }
+        ]
+      },
+      "price_trends": {
+        "title": "API Price Trends (USD per kg or per unit)",
+        "data": [
+          {
+            "year": 2022,
+            "price": 80
+          },
+          {
+            "year": 2023,
+            "price": 82
+          },
+          {
+            "year": 2024,
+            "price": 80
+          }
+        ]
+      },
+      "import_risks": {
+        "title": "Import Risk Assessment",
+        "details": "Generic manufacture; low entry barriers"
+      }
+    },
+    "Clinical Trials Agent": {
+      "landscape_overview": {
+        "title": "Global Pioglitazone Clinical Trial Landscape",
+        "description": "Pioglitazone has been studied in Alzheimer's and neurodegeneration, with some Phase III evidence."
+      },
+      "phase_distribution": {
+        "title": "Trial Phase Distribution",
+        "data": [
+          {
+            "phase": "Phase I",
+            "count": 0,
+            "color": "blue"
+          },
+          {
+            "phase": "Phase II",
+            "count": 3,
+            "color": "green"
+          },
+          {
+            "phase": "Phase III",
+            "count": 2,
+            "color": "amber"
+          }
+        ],
+        "description": "Notable number of trials including completed Phase III studies."
+      },
+      "sponsor_profile": {
+        "title": "Sponsor & Research Profile",
+        "data": [
+          {
+            "sponsor": "Takeda",
+            "trial_count": 2,
+            "focus": "AD Prevention Study"
+          },
+          {
+            "sponsor": "NINDS",
+            "trial_count": 1,
+            "focus": "Mixed Dementia"
+          },
+          {
+            "sponsor": "Independent Group",
+            "trial_count": 2,
+            "focus": "Mild Cognitive Impairment"
+          }
+        ],
+        "description": "Industry-led large trials alongside NIH-supported studies."
+      }
+    },
+    "Patent Landscape Agent": {
+      "landscape_overview": {
+        "title": "Patent Landscape Overview",
+        "sections": [
+          {
+            "label": "Core Patent Coverage",
+            "value": "Thiazolidinedione patents expired (2018); no CNS-specific claims filed"
+          },
+          {
+            "label": "Patent Expiry Timeline",
+            "value": "All core patents expired ~2018"
+          },
+          {
+            "label": "FTO Status",
+            "value": "Open FTO; new disease claims possible"
+          }
+        ]
+      },
+      "repurposing_strategy": {
+        "title": "Strategic Repurposing Patent Strategy",
+        "high_confidence_targets": "Early Alzheimer's (PPAR-gamma neuroprotection)",
+        "medium_risk_areas": "Diabetes-related cognitive decline",
+        "low_priority": "Late-stage Alzheimer's"
+      },
+      "filing_heatmap": {
+        "title": "Patent Filings Over Time",
+        "data": [
+          {
+            "year": 2020,
+            "count": 1
+          },
+          {
+            "year": 2021,
+            "count": 0
+          },
+          {
+            "year": 2022,
+            "count": 1
+          },
+          {
+            "year": 2023,
+            "count": 1
+          },
+          {
+            "year": 2024,
+            "count": 0
+          }
+        ],
+        "description": "Filing trends indicate attention to related research areas."
+      },
+      "key_patent_extract": [
+        {
+          "patent": "WO2020123456A1",
+          "owner": "Takeda",
+          "key_claim": "PPAR agonists for neuroprotection"
+        }
+      ],
+      "ip_opportunities": {
+        "title": "Key IP Opportunities",
+        "list": [
+          "New method-of-use filings for dementia",
+          "Develop patentable analogs targeting brain"
+        ]
+      }
+    },
+    "Internal Knowledge Agent": {
+      "strategic_synthesis": {
+        "title": "Internal Knowledge Base – Strategic Synthesis",
+        "insights": [
+          {
+            "label": "Mechanism Fit",
+            "value": "Insulin sensitization may benefit AD pathology"
+          },
+          {
+            "label": "Clinical Signal",
+            "value": "Mixed results in trials; benefit likely in mild cases"
+          },
+          {
+            "label": "Patent & Exclusivity",
+            "value": "Low, generics available globally"
+          }
+        ]
+      },
+      "cross_indication_comparison": {
+        "title": "Cross-Indication Strategic Comparison",
+        "dimensions": [
+          {
+            "dimension": "Commercial Readiness",
+            "current": "Low (Type 2 Diabetes)",
+            "current_level": "yellow",
+            "new": "Medium",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Evidence Strength",
+            "current": "Moderate",
+            "current_level": "green",
+            "new": "Limited",
+            "new_level": "yellow"
+          },
+          {
+            "dimension": "Cost/Access",
+            "current": "High Generic",
+            "current_level": "green",
+            "new": "High Generic",
+            "new_level": "green"
+          }
+        ]
+      }
+    },
+    "Web Intelligence Agent": {
+      "news": [
+        {
+          "headline": "Clinical Data on Pioglitazone in Mild AD Shows Mixed Results",
+          "source": "Alzheimer's Research & Therapy",
+          "date": "2026-04-10",
+          "summary": "Recent trial reports showed minor cognitive benefits in early-stage patients using Pioglitazone."
+        }
+      ],
+      "publications": [
+        {
+          "title": "PPAR-gamma agonists in Alzheimer's disease",
+          "journal": "Journal of Neuroimmune Pharmacology",
+          "year": 2025,
+          "summary": "Study exploring how insulin-sensitizing drugs may affect neuroinflammation in AD."
+        }
+      ]
+    },
+    "Report Generator Agent": {
+      "title": "Report Compilation Progress",
+      "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Pioglitazone.",
+      "sections": [
+        {
+          "title": "Executive Summary",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Market & Competitive Analysis",
+          "status": "Complete",
+          "color": "blue"
+        },
+        {
+          "title": "Clinical & Mechanistic Rationale",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Intellectual Property & FTO",
+          "status": "In Progress",
+          "color": "amber"
+        },
+        {
+          "title": "Final Report Status",
+          "status": "Finalizing",
+          "color": "amber"
+        }
+      ],
+      "report_file": "/reports/pioglitazone_alzheimer_repurposing_report.pdf"
+    }
+  },
+  "ivermectin_oncology": {
+    "query": "Evaluate repurposing opportunities for Ivermectin (small molecule) in Triple Negative Breast Cancer (oncology)",
+    "tasks": [
+      "Analyze unmet medical needs in Triple Negative Breast Cancer therapy",
+      "Assess competitive products and market dynamics for oncology conditions",
+      "Search clinical trial registries for studies of Ivermectin in Triple Negative Breast Cancer",
+      "Review patent landscape focusing on Ivermectin Triple Negative Breast Cancer",
+      "Evaluate global market size and growth projections for oncology conditions",
+      "Identify key companies and therapies in oncology area",
+      "Examine manufacturing and API sourcing considerations for Ivermectin",
+      "Monitor recent scientific publications on Ivermectin and cancer",
+      "Check regulatory status and approvals of Ivermectin in new indication",
+      "Draft strategic recommendations for repurposing Ivermectin into Oncology"
+    ],
+    "IQVIA Insights Agent": {
+      "market_forecast": {
+        "title": "Global Oncology Drug Market Forecast (USD Billions)",
+        "data": [
+          {
+            "year": "2022",
+            "value": 160
+          },
+          {
+            "year": "2023",
+            "value": 165
+          },
+          {
+            "year": "2024",
+            "value": 173
+          },
+          {
+            "year": "2025",
+            "value": 182
+          },
+          {
+            "year": "2026",
+            "value": 190
+          }
+        ]
+      },
+      "competitive_share": {
+        "title": "Competitive Market Share (2024)",
+        "data": [
+          {
+            "company": "Roche",
+            "share": "25%"
+          },
+          {
+            "company": "Novartis",
+            "share": "20%"
+          },
+          {
+            "company": "Merck",
+            "share": "15%"
+          },
+          {
+            "company": "Others",
+            "share": "~40%"
+          }
+        ]
+      }
+    },
+    "EXIM Trade Agent": {
+      "trade_volume": {
+        "title": "API Trade Volume Analysis",
+        "data": [
+          {
+            "country": "India",
+            "q2_2024": 50,
+            "q3_2024": 60,
+            "qoq_growth": "+20%"
+          },
+          {
+            "country": "China",
+            "q2_2024": 40,
+            "q3_2024": 45,
+            "qoq_growth": "+13%"
+          },
+          {
+            "country": "Thailand",
+            "q2_2024": 10,
+            "q3_2024": 12,
+            "qoq_growth": "+20%"
+          }
+        ]
+      },
+      "price_trends": {
+        "title": "API Price Trends (USD per kg or per unit)",
+        "data": [
+          {
+            "year": 2022,
+            "price": 400
+          },
+          {
+            "year": 2023,
+            "price": 390
+          },
+          {
+            "year": 2024,
+            "price": 395
+          }
+        ]
+      },
+      "import_risks": {
+        "title": "Import Risk Assessment",
+        "details": "Public controversy; limited branded supply"
+      }
+    },
+    "Clinical Trials Agent": {
+      "landscape_overview": {
+        "title": "Global Ivermectin Clinical Trial Landscape",
+        "description": "Ivermectin's anti-cancer potential is under early investigation, mostly in vitro and small human trials."
+      },
+      "phase_distribution": {
+        "title": "Trial Phase Distribution",
+        "data": [
+          {
+            "phase": "Phase I",
+            "count": 1,
+            "color": "blue"
+          },
+          {
+            "phase": "Phase II",
+            "count": 2,
+            "color": "green"
+          },
+          {
+            "phase": "Phase III",
+            "count": 0,
+            "color": "amber"
+          }
+        ],
+        "description": "Primarily early-phase, mechanism-finding trials in oncology."
+      },
+      "sponsor_profile": {
+        "title": "Sponsor & Research Profile",
+        "data": [
+          {
+            "sponsor": "Biotech Startup",
+            "trial_count": 1,
+            "focus": "Breast Cancer"
+          },
+          {
+            "sponsor": "Academic Consortium",
+            "trial_count": 2,
+            "focus": "Various Tumors"
+          }
+        ],
+        "description": "Niche research groups testing Ivermectin's anticancer effects."
+      }
+    },
+    "Patent Landscape Agent": {
+      "landscape_overview": {
+        "title": "Patent Landscape Overview",
+        "sections": [
+          {
+            "label": "Core Patent Coverage",
+            "value": "Ivermectin patents long expired (1980s); no oncology-specific IP exists"
+          },
+          {
+            "label": "Patent Expiry Timeline",
+            "value": "Expired decades ago"
+          },
+          {
+            "label": "FTO Status",
+            "value": "Open FTO; only new formulations or combos patentable"
+          }
+        ]
+      },
+      "repurposing_strategy": {
+        "title": "Strategic Repurposing Patent Strategy",
+        "high_confidence_targets": "Breast and prostate cancer (in vitro evidence)",
+        "medium_risk_areas": "Other solid tumors",
+        "low_priority": "Liquid tumors"
+      },
+      "filing_heatmap": {
+        "title": "Patent Filings Over Time",
+        "data": [
+          {
+            "year": 2020,
+            "count": 0
+          },
+          {
+            "year": 2021,
+            "count": 1
+          },
+          {
+            "year": 2022,
+            "count": 0
+          },
+          {
+            "year": 2023,
+            "count": 0
+          },
+          {
+            "year": 2024,
+            "count": 0
+          }
+        ],
+        "description": "Filing trends indicate attention to related research areas."
+      },
+      "key_patent_extract": [
+        {
+          "patent": "US33445566B2",
+          "owner": "Academic",
+          "key_claim": "Ivermectin derivatives for cancer"
+        }
+      ],
+      "ip_opportunities": {
+        "title": "Key IP Opportunities",
+        "list": [
+          "Develop novel analogs with patent protection",
+          "File method-of-use for specific cancers"
+        ]
+      }
+    },
+    "Internal Knowledge Agent": {
+      "strategic_synthesis": {
+        "title": "Internal Knowledge Base – Strategic Synthesis",
+        "insights": [
+          {
+            "label": "Mechanism Fit",
+            "value": "Hyperforin channel modulation in cancer cells (still theoretical)"
+          },
+          {
+            "label": "Clinical Evidence",
+            "value": "Very preliminary; mainly cell/animal data"
+          },
+          {
+            "label": "Regulatory Challenges",
+            "value": "Controversial safety profile; high skepticism"
+          }
+        ]
+      },
+      "cross_indication_comparison": {
+        "title": "Cross-Indication Strategic Comparison",
+        "dimensions": [
+          {
+            "dimension": "Commercial Readiness",
+            "current": "High (Parasitic use)",
+            "current_level": "green",
+            "new": "Very Low",
+            "new_level": "red"
+          },
+          {
+            "dimension": "Clinical Credibility",
+            "current": "High",
+            "current_level": "green",
+            "new": "Very Low",
+            "new_level": "red"
+          },
+          {
+            "dimension": "Risk Profile",
+            "current": "Low",
+            "current_level": "green",
+            "new": "Moderate",
+            "new_level": "yellow"
+          }
+        ]
+      }
+    },
+    "Web Intelligence Agent": {
+      "news": [
+        {
+          "headline": "Study Finds Ivermectin Inhibits Breast Cancer Cell Growth",
+          "source": "Cancer Research UK",
+          "date": "2025-07-18",
+          "summary": "Laboratory study reports Ivermectin's effect on breast cancer cell apoptosis."
+        }
+      ],
+      "publications": [
+        {
+          "title": "Ivermectin as an anticancer agent: mechanisms and perspectives",
+          "journal": "Oncotarget",
+          "year": 2025,
+          "summary": "Review of Ivermectin's potential mechanisms in cancer therapy."
+        }
+      ]
+    },
+    "Report Generator Agent": {
+      "title": "Report Compilation Progress",
+      "description": "Synthesizing insights from all analyses to produce a comprehensive repurposing report for Ivermectin.",
+      "sections": [
+        {
+          "title": "Executive Summary",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Market & Competitive Analysis",
+          "status": "Complete",
+          "color": "blue"
+        },
+        {
+          "title": "Clinical & Mechanistic Rationale",
+          "status": "Complete",
+          "color": "green"
+        },
+        {
+          "title": "Intellectual Property & FTO",
+          "status": "In Progress",
+          "color": "amber"
+        },
+        {
+          "title": "Final Report Status",
+          "status": "Finalizing",
+          "color": "amber"
+        }
+      ],
+      "report_file": "/reports/ivermectin_oncology_repurposing_report.pdf"
+    }
+  },
+  "free_data_sources": {
+    "IQVIA Insights Agent": [
+      {
+        "name": "World Bank Open Data",
+        "url": "https://data.worldbank.org",
+        "description": "Global economic and health statistics from the World Bank."
+      },
+      {
+        "name": "OECD Data API",
+        "url": "https://data.oecd.org/api/sdmx-json-documentation",
+        "description": "Free API access to OECD health and economic indicators."
+      },
+      {
+        "name": "WHO Global Health Observatory",
+        "url": "https://www.who.int/data/gho/info/gho-odata-api",
+        "description": "WHO's open data for health statistics and disease burden."
+      }
+    ],
+    "EXIM Trade Agent": [
+      {
+        "name": "UN Comtrade API",
+        "url": "https://comtrade.un.org",
+        "description": "International trade data (free up to 100K records per call)."
+      },
+      {
+        "name": "World Bank WITS API",
+        "url": "https://wits.worldbank.org",
+        "description": "World Bank WITS API for trade and tariff data."
+      },
+      {
+        "name": "U.S. Census International Trade API",
+        "url": "https://api.census.gov/data.html",
+        "description": "Free U.S. international trade data API."
+      }
+    ],
+    "Clinical Trials Agent": [
+      {
+        "name": "ClinicalTrials.gov API",
+        "url": "https://clinicaltrials.gov/api/",
+        "description": "Registry of clinical trials; public REST API available."
+      },
+      {
+        "name": "WHO ICTRP",
+        "url": "https://trialsearch.who.int",
+        "description": "WHO clinical trials registry portal covering global trial registries."
+      },
+      {
+        "name": "EU Clinical Trials Register (EudraCT)",
+        "url": "https://www.clinicaltrialsregister.eu/",
+        "description": "EU database of clinical trials for medicinal products."
+      }
+    ],
+    "Patent Landscape Agent": [
+      {
+        "name": "EPO Open Patent Services (OPS)",
+        "url": "https://www.epo.org/en/searching-for-patents/data/web-services/ops",
+        "description": "Free API for EPO patent data (up to 4GB/week free)."
+      },
+      {
+        "name": "USPTO Patent Public Data",
+        "url": "https://developer.uspto.gov/",
+        "description": "USPTO Open Data Portal for patents (free access to USPTO patents)."
+      },
+      {
+        "name": "The Lens Patent API",
+        "url": "https://www.lens.org",
+        "description": "Lens.org provides patent and scholarly data APIs (free with registration)."
+      }
+    ],
+    "Internal Knowledge Agent": [
+      {
+        "name": "PubChem",
+        "url": "https://pubchem.ncbi.nlm.nih.gov",
+        "description": "NIH database of chemical molecules (drug structures, targets, bioactivity)."
+      },
+      {
+        "name": "OpenFDA",
+        "url": "https://open.fda.gov/",
+        "description": "FDA open APIs including drug labels, adverse events, manufacturer info."
+      },
+      {
+        "name": "NIH RePORTER",
+        "url": "https://reporter.nih.gov/",
+        "description": "Database of NIH-funded research projects; public API for research grant data."
+      }
+    ],
+    "Web Intelligence Agent": [
+      {
+        "name": "PubMed (NCBI E-utilities)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov",
+        "description": "Entrez Programming Utilities for PubMed and other NCBI databases."
+      },
+      {
+        "name": "Europe PMC",
+        "url": "https://europepmc.org",
+        "description": "Europe PubMed Central API for biomedical and life sciences literature."
+      },
+      {
+        "name": "NewsAPI.org",
+        "url": "https://newsapi.org",
+        "description": "News aggregator API (free tier with key for retrieving news articles)."
+      }
+    ]
+  }
+}

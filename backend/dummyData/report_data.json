@@ -1,0 +1,60 @@
+{
+  "semaglutide_general": {
+    "title": "Report Compilation Progress",
+    "description": "Synthesizing insights from all specialized agents to generate a comprehensive repurposing assessment report for Semaglutide.",
+    "sections": [
+      {
+        "title": "Executive Summary",
+        "status": "Complete",
+        "color": "green"
+      },
+      {
+        "title": "Market & Competitive Analysis",
+        "description": "Integrated market sizing data, competitive landscape, and white space opportunities from IQVIA insights.",
+        "status": "Complete",
+        "color": "blue"
+      },
+      {
+        "title": "Clinical & Mechanistic Rationale",
+        "description": "Compiled mechanism of action, clinical trial data, and signal strength assessments for addiction disorders indication.",
+        "status": "Complete",
+        "color": "green"
+      },
+      {
+        "title": "Final Report Status",
+        "description": "Generating PDF document with all sections, charts, and strategic recommendations...",
+        "status": "Finalizing",
+        "color": "amber"
+      }
+    ]
+  },
+  "semaglutide_aud": {
+    "title": "Deep-Dive Report: AUD Indication Analysis",
+    "description": "Compiling focused analysis on Alcohol Use Disorder indication with GLP-1 receptor linkage, clinical signals, sponsor activity, and strategic considerations.",
+    "sections": [
+      {
+        "title": "Executive Summary",
+        "status": "Complete",
+        "color": "green"
+      },
+      {
+        "title": "Market & Competitive Analysis",
+        "description": "Integrated market sizing data, competitive landscape, and white space opportunities from IQVIA insights.",
+        "status": "Complete",
+        "color": "blue"
+      },
+      {
+        "title": "Clinical & Mechanistic Rationale",
+        "description": "Compiled mechanism of action, clinical trial data, and signal strength assessments for addiction disorders indication.",
+        "status": "Complete",
+        "color": "green"
+      },
+      {
+        "title": "Final Report Status",
+        "description": "Generating PDF document with all sections, charts, and strategic recommendations...",
+        "status": "Finalizing",
+        "color": "amber"
+      }
+    ]
+  }
+}

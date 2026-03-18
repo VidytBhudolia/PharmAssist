@@ -1,0 +1,237 @@
+{
+  "metformin_cancer": {
+    "landscape_overview": {
+      "title": "Global Metformin Clinical Trial Landscape",
+      "description": "Multiple trials are evaluating Metformin's anticancer effects across various tumor types."
+    },
+    "phase_distribution": {
+      "title": "Trial Phase Distribution",
+      "data": [
+        { "phase": "Phase I", "count": 2, "color": "blue" },
+        { "phase": "Phase II", "count": 8, "color": "green" },
+        { "phase": "Phase III", "count": 2, "color": "amber" }
+      ],
+      "description": "Predominance of Phase II trials reflects exploratory studies in oncology contexts."
+    },
+    "sponsor_profile": {
+      "title": "Sponsor & Research Profile",
+      "data": [
+        { "sponsor": "Bristol-Myers Squibb", "trial_count": 3, "focus": "Breast, Colon Cancer" },
+        { "sponsor": "NIH", "trial_count": 2, "focus": "Lung, Prostate Cancer" },
+        { "sponsor": "Academic Consortia", "trial_count": 2, "focus": "Pancreatic Cancer" }
+      ],
+      "description": "Mix of industry and academic sponsors investigating Metformin's role in cancer."
+    }
+  },
+  "sildenafil_altitude": {
+    "landscape_overview": {
+      "title": "Global Sildenafil Clinical Trial Landscape",
+      "description": "Sildenafil trials are focused on pulmonary conditions including altitude sickness and HAPE."
+    },
+    "phase_distribution": {
+      "title": "Trial Phase Distribution",
+      "data": [
+        { "phase": "Phase I", "count": 1, "color": "blue" },
+        { "phase": "Phase II", "count": 4, "color": "green" },
+        { "phase": "Phase III", "count": 1, "color": "amber" }
+      ],
+      "description": "Several Phase II studies explore efficacy for acute mountain sickness."
+    },
+    "sponsor_profile": {
+      "title": "Sponsor & Research Profile",
+      "data": [
+        { "sponsor": "University Research Centers", "trial_count": 3, "focus": "HAPE prevention" },
+        { "sponsor": "Defense Research Labs", "trial_count": 1, "focus": "Altitude Adaptation" },
+        { "sponsor": "Pharmaceutical Company", "trial_count": 2, "focus": "Pulmonary Hypertension" }
+      ],
+      "description": "Research led by military and academia on altitude applications."
+    }
+  },
+  "adalimumab_lungfibrosis": {
+    "landscape_overview": {
+      "title": "Global Adalimumab Clinical Trial Landscape",
+      "description": "Investigation into anti-TNF therapies for lung fibrosis is nascent, with few active studies."
+    },
+    "phase_distribution": {
+      "title": "Trial Phase Distribution",
+      "data": [
+        { "phase": "Phase I", "count": 0, "color": "blue" },
+        { "phase": "Phase II", "count": 3, "color": "green" },
+        { "phase": "Phase III", "count": 1, "color": "amber" }
+      ],
+      "description": "Predominantly Phase II trials targeting fibrotic lung disease."
+    },
+    "sponsor_profile": {
+      "title": "Sponsor & Research Profile",
+      "data": [
+        { "sponsor": "AbbVie", "trial_count": 1, "focus": "IPF" },
+        { "sponsor": "Academic Consortium", "trial_count": 2, "focus": "Autoimmune Lung Disease" }
+      ],
+      "description": "Single industry study with additional investigator-led trials."
+    }
+  },
+  "fluoxetine_neurodegenerative": {
+    "landscape_overview": {
+      "title": "Global Fluoxetine Clinical Trial Landscape",
+      "description": "Fluoxetine trials in neurodegenerative disease are limited, focusing on symptomatic outcomes."
+    },
+    "phase_distribution": {
+      "title": "Trial Phase Distribution",
+      "data": [
+        { "phase": "Phase I", "count": 1, "color": "blue" },
+        { "phase": "Phase II", "count": 2, "color": "green" },
+        { "phase": "Phase III", "count": 1, "color": "amber" }
+      ],
+      "description": "Early-phase trials predominate; no large Phase III studies yet."
+    },
+    "sponsor_profile": {
+      "title": "Sponsor & Research Profile",
+      "data": [
+        { "sponsor": "University Hospitals", "trial_count": 1, "focus": "Alzheimer's cognitive effects" },
+        { "sponsor": "National Institutes of Health", "trial_count": 1, "focus": "Parkinson's depression" },
+        { "sponsor": "Biotech Startup", "trial_count": 1, "focus": "Dementia-related agitation" }
+      ],
+      "description": "Mixed sponsorship suggests experimental exploration in neurology."
+    }
+  },
+  "pembrolizumab_NASH": {
+    "landscape_overview": {
+      "title": "Global Pembrolizumab Clinical Trial Landscape",
+      "description": "Exploratory trials are evaluating immunotherapy effects in NASH."
+    },
+    "phase_distribution": {
+      "title": "Trial Phase Distribution",
+      "data": [
+        { "phase": "Phase I", "count": 1, "color": "blue" },
+        { "phase": "Phase II", "count": 2, "color": "green" },
+        { "phase": "Phase III", "count": 0, "color": "amber" }
+      ],
+      "description": "Only early-phase trials are underway for NASH."
+    },
+    "sponsor_profile": {
+      "title": "Sponsor & Research Profile",
+      "data": [
+        { "sponsor": "Merck", "trial_count": 1, "focus": "NASH Immunoediting" },
+        { "sponsor": "Yale University", "trial_count": 1, "focus": "Liver Inflammation" },
+        { "sponsor": "Academic Research", "trial_count": 1, "focus": "Metabolic Syndrome" }
+      ],
+      "description": "Collaboration between Merck and academic centers investigating NASH."
+    }
+  },
+  "omeprazole_osteoporosis": {
+    "landscape_overview": {
+      "title": "Global Omeprazole Clinical Trial Landscape",
+      "description": "Few trials examine PPI effects on bone health; evidence is largely from observational studies."
+    },
+    "phase_distribution": {
+      "title": "Trial Phase Distribution",
+      "data": [
+        { "phase": "Phase I", "count": 0, "color": "blue" },
+        { "phase": "Phase II", "count": 1, "color": "green" },
+        { "phase": "Phase III", "count": 1, "color": "amber" }
+      ],
+      "description": "Limited interventional studies; mostly association analyses."
+    },
+    "sponsor_profile": {
+      "title": "Sponsor & Research Profile",
+      "data": [
+        { "sponsor": "GSK", "trial_count": 1, "focus": "Bone Density Impact" },
+        { "sponsor": "NIH", "trial_count": 1, "focus": "Gastro vs Bone Outcome" }
+      ],
+      "description": "Small-scale trials funded by pharma and government."
+    }
+  },
+  "rituximab_parkinson": {
+    "landscape_overview": {
+      "title": "Global Rituximab Clinical Trial Landscape",
+      "description": "Investigations of B-cell depletion in Parkinson's disease are highly experimental."
+    },
+    "phase_distribution": {
+      "title": "Trial Phase Distribution",
+      "data": [
+        { "phase": "Phase I", "count": 0, "color": "blue" },
+        { "phase": "Phase II", "count": 1, "color": "green" },
+        { "phase": "Phase III", "count": 0, "color": "amber" }
+      ],
+      "description": "Only a handful of exploratory studies; no late-stage trials."
+    },
+    "sponsor_profile": {
+      "title": "Sponsor & Research Profile",
+      "data": [
+        { "sponsor": "Academic Research", "trial_count": 1, "focus": "Neuroinflammation in PD" }
+      ],
+      "description": "Preliminary study by an academic neurology group."
+    }
+  },
+  "ketamine_chronic_pain": {
+    "landscape_overview": {
+      "title": "Global Ketamine Clinical Trial Landscape",
+      "description": "Multiple trials explore ketamine for chronic pain, reflecting growing interest in NMDA-targeted therapies."
+    },
+    "phase_distribution": {
+      "title": "Trial Phase Distribution",
+      "data": [
+        { "phase": "Phase I", "count": 2, "color": "blue" },
+        { "phase": "Phase II", "count": 4, "color": "green" },
+        { "phase": "Phase III", "count": 1, "color": "amber" }
+      ],
+      "description": "Several Phase II trials, few progressed to Phase III for chronic pain."
+    },
+    "sponsor_profile": {
+      "title": "Sponsor & Research Profile",
+      "data": [
+        { "sponsor": "Janssen", "trial_count": 2, "focus": "Treatment-Resistant Pain" },
+        { "sponsor": "National Institutes of Health", "trial_count": 2, "focus": "Complex Regional Pain Syndrome" },
+        { "sponsor": "University Pain Clinic", "trial_count": 1, "focus": "Neuropathic Pain Study" }
+      ],
+      "description": "Combination of industry and NIH-sponsored trials on ketamine pain use."
+    }
+  },
+  "pioglitazone_alzheimer": {
+    "landscape_overview": {
+      "title": "Global Pioglitazone Clinical Trial Landscape",
+      "description": "Pioglitazone has been studied in Alzheimer's and neurodegeneration, with some Phase III evidence."
+    },
+    "phase_distribution": {
+      "title": "Trial Phase Distribution",
+      "data": [
+        { "phase": "Phase I", "count": 0, "color": "blue" },
+        { "phase": "Phase II", "count": 3, "color": "green" },
+        { "phase": "Phase III", "count": 2, "color": "amber" }
+      ],
+      "description": "Notable number of trials including completed Phase III studies."
+    },
+    "sponsor_profile": {
+      "title": "Sponsor & Research Profile",
+      "data": [
+        { "sponsor": "Takeda", "trial_count": 2, "focus": "AD Prevention Study" },
+        { "sponsor": "NINDS", "trial_count": 1, "focus": "Mixed Dementia" },
+        { "sponsor": "Independent Group", "trial_count": 2, "focus": "Mild Cognitive Impairment" }
+      ],
+      "description": "Industry-led large trials alongside NIH-supported studies."
+    }
+  },
+  "ivermectin_oncology": {
+    "landscape_overview": {
+      "title": "Global Ivermectin Clinical Trial Landscape",
+      "description": "Ivermectin's anti-cancer potential is under early investigation, mostly in vitro and small human trials."
+    },
+    "phase_distribution": {
+      "title": "Trial Phase Distribution",
+      "data": [
+        { "phase": "Phase I", "count": 1, "color": "blue" },
+        { "phase": "Phase II", "count": 2, "color": "green" },
+        { "phase": "Phase III", "count": 0, "color": "amber" }
+      ],
+      "description": "Primarily early-phase, mechanism-finding trials in oncology."
+    },
+    "sponsor_profile": {
+      "title": "Sponsor & Research Profile",
+      "data": [
+        { "sponsor": "Biotech Startup", "trial_count": 1, "focus": "Breast Cancer" },
+        { "sponsor": "Academic Consortium", "trial_count": 2, "focus": "Various Tumors" }
+      ],
+      "description": "Niche research groups testing Ivermectin's anticancer effects."
+    }
+  }
+}

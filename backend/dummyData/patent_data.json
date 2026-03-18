@@ -1,0 +1,68 @@
+{
+  "semaglutide_general": {
+    "landscape_overview": {
+      "title": "Patent Landscape Overview",
+      "sections": [
+        {
+          "label": "Core Patent Coverage",
+          "value": "Composition of matter, peptide formulation, oral absorption enhancers"
+        },
+        {
+          "label": "Patent Expiry Timeline",
+          "value": "Core molecule expiry ~2028; formulation & dosing extend to 2032+"
+        },
+        {
+          "label": "Freedom To Operate (FTO)",
+          "value": "Moderate risk post-2028 due to method-of-use patents"
+        }
+      ],
+      "description": "Semaglutide's IP estate is optimized for lifecycle extension via formulation, dosing regimens, and indication-specific claims."
+    },
+    "repurposing_strategy": {
+      "title": "Strategic Repurposing Patent Strategy",
+      "high_confidence_targets": "Cardiovascular risk reduction and metabolic liver disease present strong opportunities for method-of-treatment claims independent of glycemic control.",
+      "medium_risk_areas": "Neurodegenerative and addiction-related indications require precise claim construction around neuro-inflammatory and reward-pathway modulation."
+    },
+    "filing_heatmap": {
+      "title": "Competitive Filing Heatmap",
+      "data": [
+        { "region": "US Filings", "count": 42, "color": "amber" },
+        { "region": "EU Filings", "count": 31, "color": "blue" },
+        { "region": "China Filings", "count": 18, "color": "red" },
+        { "region": "India Filings", "count": 9, "color": "green" }
+      ],
+      "description": "Filing density indicates strong defensive coverage in US/EU markets, with whitespace opportunities in emerging economies post-expiry."
+    },
+    "key_patent_extract": {
+      "title": "Key Patent Extract (High Risk)",
+      "patent_number": "US10765789",
+      "description": "Methods for administering semaglutide at extended dosing intervals to achieve sustained metabolic control.",
+      "risk_note": "Potential overlap with alternate dosing strategies for neuropsychiatric or addiction-related indications."
+    },
+    "ip_opportunities": {
+      "title": "Forward-Looking IP Opportunities",
+      "high_value_claims": "Cardiovascular outcomes, neuro-inflammation modulation, metabolic liver disease",
+      "note": "Strategic focus on indication-specific method claims enables durable exclusivity beyond core molecule expiry."
+    }
+  },
+  "semaglutide_aud": {
+    "aud_focus": {
+      "title": "Alcohol Use Disorder (AUD) – Patent Focus",
+      "sections": [
+        {
+          "label": "Relevant Existing Patents",
+          "value": "US10765789 (extended dosing), formulation and delivery patents"
+        },
+        {
+          "label": "AUD Method-of-Use Coverage",
+          "value": "No explicit AUD claims filed – indication-level whitespace remains"
+        },
+        {
+          "label": "AUD FTO Assessment",
+          "value": "Moderate risk due to dosing-interval overlap; manageable via behavioral endpoint differentiation"
+        }
+      ],
+      "description": "AUD represents a filtered, high-value subset of the broader IP estate, with defensible method-of-treatment claims possible without challenging core composition patents."
+    }
+  }
+}

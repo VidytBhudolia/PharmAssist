@@ -1,0 +1,182 @@
+{
+  "metformin_cancer": {
+    "strategic_synthesis": {
+      "title": "Internal Knowledge Base – Strategic Synthesis",
+      "insights": [
+        { "label": "Mechanism Fit", "value": "Interference with cancer metabolism; strong rationale" },
+        { "label": "Clinical Evidence", "value": "Retrospective studies suggest reduced tumor growth with metformin" },
+        { "label": "Competition", "value": "Many generic options; niche for adjunct therapy" }
+      ]
+    },
+    "cross_indication_comparison": {
+      "title": "Cross-Indication Strategic Comparison",
+      "dimensions": [
+        { "dimension": "Commercial Readiness", "current": "High (Diabetes)", "current_level": "green", "new": "Medium (Oncology)", "new_level": "yellow" },
+        { "dimension": "Clinical Evidence", "current": "Strong", "current_level": "green", "new": "Modest", "new_level": "yellow" },
+        { "dimension": "Mechanistic Rationale", "current": "Moderate", "current_level": "green", "new": "Strong", "new_level": "green" }
+      ]
+    }
+  },
+  "sildenafil_altitude": {
+    "strategic_synthesis": {
+      "title": "Internal Knowledge Base – Strategic Synthesis",
+      "insights": [
+        { "label": "Mechanism Fit", "value": "Vasodilation improves oxygenation at altitude" },
+        { "label": "Clinical Evidence", "value": "Some pilot studies in mountaineers exist" },
+        { "label": "Strategic Fit", "value": "Distinct niche market; complements cardiovascular portfolio" }
+      ]
+    },
+    "cross_indication_comparison": {
+      "title": "Cross-Indication Strategic Comparison",
+      "dimensions": [
+        { "dimension": "Commercial Readiness", "current": "High (ED)", "current_level": "green", "new": "Low (Altitude)", "new_level": "yellow" },
+        { "dimension": "Regulatory Hurdles", "current": "Low", "current_level": "green", "new": "Moderate", "new_level": "yellow" },
+        { "dimension": "Competition", "current": "Medium", "current_level": "yellow", "new": "Low", "new_level": "green" }
+      ]
+    }
+  },
+  "adalimumab_lungfibrosis": {
+    "strategic_synthesis": {
+      "title": "Internal Knowledge Base – Strategic Synthesis",
+      "insights": [
+        { "label": "Mechanism Fit", "value": "Anti-inflammatory may slow fibrosis progression" },
+        { "label": "Clinical Signal", "value": "Mixed results in IPF; theoretical benefit" },
+        { "label": "Manufacturing Challenge", "value": "Biologic production is complex and costly" }
+      ]
+    },
+    "cross_indication_comparison": {
+      "title": "Cross-Indication Strategic Comparison",
+      "dimensions": [
+        { "dimension": "Commercial Readiness", "current": "High (RA/IBD)", "current_level": "green", "new": "Low (IPF)", "new_level": "yellow" },
+        { "dimension": "Scientific Rationale", "current": "Established", "current_level": "green", "new": "Preliminary", "new_level": "yellow" },
+        { "dimension": "Competition", "current": "Low", "current_level": "green", "new": "Medium", "new_level": "yellow" }
+      ]
+    }
+  },
+  "fluoxetine_neurodegenerative": {
+    "strategic_synthesis": {
+      "title": "Internal Knowledge Base – Strategic Synthesis",
+      "insights": [
+        { "label": "Mechanism Fit", "value": "Neuroprotective effects via serotonin; unproven" },
+        { "label": "Clinical Signal", "value": "Case reports, but no clear benefit in trials" },
+        { "label": "Safety Profile", "value": "Well-understood SSRIs; low safety concern for elderly" }
+      ]
+    },
+    "cross_indication_comparison": {
+      "title": "Cross-Indication Strategic Comparison",
+      "dimensions": [
+        { "dimension": "Commercial Readiness", "current": "High (Depression)", "current_level": "green", "new": "Low (Alzheimer's)", "new_level": "yellow" },
+        { "dimension": "Risk of Off-Label Use", "current": "Low", "current_level": "green", "new": "Moderate", "new_level": "yellow" },
+        { "dimension": "Competition", "current": "Low", "current_level": "green", "new": "High (CNS drugs)", "new_level": "red" }
+      ]
+    }
+  },
+  "pembrolizumab_NASH": {
+    "strategic_synthesis": {
+      "title": "Internal Knowledge Base – Strategic Synthesis",
+      "insights": [
+        { "label": "Mechanism Fit", "value": "Immune modulation in liver pathology; novel approach" },
+        { "label": "Clinical Signal", "value": "Early trials, some biomarkers suggest potential" },
+        { "label": "Safety Considerations", "value": "Immune therapy risks in fatty liver disease" }
+      ]
+    },
+    "cross_indication_comparison": {
+      "title": "Cross-Indication Strategic Comparison",
+      "dimensions": [
+        { "dimension": "Commercial Readiness", "current": "High (Oncology)", "current_level": "green", "new": "Low (NASH)", "new_level": "yellow" },
+        { "dimension": "Safety Profile", "current": "Moderate", "current_level": "green", "new": "Moderate/High", "new_level": "amber" },
+        { "dimension": "Competition", "current": "Very High", "current_level": "red", "new": "Moderate", "new_level": "yellow" }
+      ]
+    }
+  },
+  "omeprazole_osteoporosis": {
+    "strategic_synthesis": {
+      "title": "Internal Knowledge Base – Strategic Synthesis",
+      "insights": [
+        { "label": "Mechanism Fit", "value": "PPIs may affect calcium uptake; indirect bone effects" },
+        { "label": "Clinical Evidence", "value": "Data suggests long-term PPI use might reduce bone density" },
+        { "label": "Market Potential", "value": "Limited by generics and established osteoporosis treatments" }
+      ]
+    },
+    "cross_indication_comparison": {
+      "title": "Cross-Indication Strategic Comparison",
+      "dimensions": [
+        { "dimension": "Commercial Readiness", "current": "High (GERD)", "current_level": "green", "new": "Very Low", "new_level": "yellow" },
+        { "dimension": "Evidence Strength", "current": "Moderate", "current_level": "green", "new": "Weak", "new_level": "yellow" },
+        { "dimension": "Competition", "current": "Low", "current_level": "green", "new": "Very High", "new_level": "red" }
+      ]
+    }
+  },
+  "rituximab_parkinson": {
+    "strategic_synthesis": {
+      "title": "Internal Knowledge Base – Strategic Synthesis",
+      "insights": [
+        { "label": "Mechanism Fit", "value": "Emerging idea of immune component; largely speculative" },
+        { "label": "Clinical Signal", "value": "Very preliminary; few case studies" },
+        { "label": "Patient Impact", "value": "High if effective; but risk of heavy immunosuppression" }
+      ]
+    },
+    "cross_indication_comparison": {
+      "title": "Cross-Indication Strategic Comparison",
+      "dimensions": [
+        { "dimension": "Commercial Readiness", "current": "High (RA/Neuroimmunology)", "current_level": "green", "new": "Low", "new_level": "red" },
+        { "dimension": "Scientific Plausibility", "current": "Established", "current_level": "green", "new": "Theoretical", "new_level": "yellow" },
+        { "dimension": "Risk Factor", "current": "Moderate", "current_level": "green", "new": "High", "new_level": "red" }
+      ]
+    }
+  },
+  "ketamine_chronic_pain": {
+    "strategic_synthesis": {
+      "title": "Internal Knowledge Base – Strategic Synthesis",
+      "insights": [
+        { "label": "Mechanism Fit", "value": "NMDA antagonism directly addresses pain signaling" },
+        { "label": "Clinical Evidence", "value": "Multiple studies show pain relief; off-label use is growing" },
+        { "label": "Regulatory Status", "value": "Emerging approvals for depression; pain indications evolving" }
+      ]
+    },
+    "cross_indication_comparison": {
+      "title": "Cross-Indication Strategic Comparison",
+      "dimensions": [
+        { "dimension": "Commercial Readiness", "current": "Medium (anesthesia)", "current_level": "yellow", "new": "High", "new_level": "green" },
+        { "dimension": "Clinical Adoption", "current": "Low", "current_level": "yellow", "new": "Growing", "new_level": "green" },
+        { "dimension": "Competition", "current": "Low", "current_level": "green", "new": "Moderate", "new_level": "yellow" }
+      ]
+    }
+  },
+  "pioglitazone_alzheimer": {
+    "strategic_synthesis": {
+      "title": "Internal Knowledge Base – Strategic Synthesis",
+      "insights": [
+        { "label": "Mechanism Fit", "value": "Insulin sensitization may benefit AD pathology" },
+        { "label": "Clinical Signal", "value": "Mixed results in trials; benefit likely in mild cases" },
+        { "label": "Patent & Exclusivity", "value": "Low, generics available globally" }
+      ]
+    },
+    "cross_indication_comparison": {
+      "title": "Cross-Indication Strategic Comparison",
+      "dimensions": [
+        { "dimension": "Commercial Readiness", "current": "Low (Type 2 Diabetes)", "current_level": "yellow", "new": "Medium", "new_level": "yellow" },
+        { "dimension": "Evidence Strength", "current": "Moderate", "current_level": "green", "new": "Limited", "new_level": "yellow" },
+        { "dimension": "Cost/Access", "current": "High Generic", "current_level": "green", "new": "High Generic", "new_level": "green" }
+      ]
+    }
+  },
+  "ivermectin_oncology": {
+    "strategic_synthesis": {
+      "title": "Internal Knowledge Base – Strategic Synthesis",
+      "insights": [
+        { "label": "Mechanism Fit", "value": "Hyperforin channel modulation in cancer cells (still theoretical)" },
+        { "label": "Clinical Evidence", "value": "Very preliminary; mainly cell/animal data" },
+        { "label": "Regulatory Challenges", "value": "Controversial safety profile; high skepticism" }
+      ]
+    },
+    "cross_indication_comparison": {
+      "title": "Cross-Indication Strategic Comparison",
+      "dimensions": [
+        { "dimension": "Commercial Readiness", "current": "High (Parasitic use)", "current_level": "green", "new": "Very Low", "new_level": "red" },
+        { "dimension": "Clinical Credibility", "current": "High", "current_level": "green", "new": "Very Low", "new_level": "red" },
+        { "dimension": "Risk Profile", "current": "Low", "current_level": "green", "new": "Moderate", "new_level": "yellow" }
+      ]
+    }
+  }
+}

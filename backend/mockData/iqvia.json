@@ -1,0 +1,211 @@
+{
+  "metformin_cancer": {
+    "market_forecast": {
+      "title": "Global Oncology Drug Market Forecast (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 160 },
+        { "year": "2023", "value": 165 },
+        { "year": "2024", "value": 173 },
+        { "year": "2025", "value": 182 },
+        { "year": "2026", "value": 190 }
+      ]
+    },
+    "competitive_share": {
+      "title": "Competitive Market Share (2024)",
+      "data": [
+        { "company": "Roche", "share": "20%" },
+        { "company": "Novartis", "share": "18%" },
+        { "company": "Pfizer", "share": "15%" },
+        { "company": "Others", "share": "~47%" }
+      ]
+    }
+  },
+  "sildenafil_altitude": {
+    "market_forecast": {
+      "title": "Global Pulmonary Hypertension & Altitude Sickness Market Forecast (USD Millions)",
+      "data": [
+        { "year": "2022", "value": 450 },
+        { "year": "2023", "value": 470 },
+        { "year": "2024", "value": 490 },
+        { "year": "2025", "value": 510 },
+        { "year": "2026", "value": 540 }
+      ]
+    },
+    "competitive_share": {
+      "title": "Competitive Market Share (2024)",
+      "data": [
+        { "company": "Pfizer (Revatio)", "share": "65%" },
+        { "company": "Novartis (Adempas)", "share": "10%" },
+        { "company": "Generic Suppliers", "share": "~25%" }
+      ]
+    }
+  },
+  "adalimumab_lungfibrosis": {
+    "market_forecast": {
+      "title": "Global Lung Disease Biologics Market Forecast (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 2.1 },
+        { "year": "2023", "value": 2.3 },
+        { "year": "2024", "value": 2.6 },
+        { "year": "2025", "value": 3.0 },
+        { "year": "2026", "value": 3.4 }
+      ]
+    },
+    "competitive_share": {
+      "title": "Competitive Market Share (2026)",
+      "data": [
+        { "company": "Boehringer Ingelheim", "share": "30%" },
+        { "company": "Roche (Actemra)", "share": "25%" },
+        { "company": "Galapagos", "share": "15%" },
+        { "company": "Others", "share": "~30%" }
+      ]
+    }
+  },
+  "fluoxetine_neurodegenerative": {
+    "market_forecast": {
+      "title": "Global Alzheimer's Disease Drug Market Forecast (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 3.2 },
+        { "year": "2023", "value": 3.4 },
+        { "year": "2024", "value": 3.7 },
+        { "year": "2025", "value": 4.0 },
+        { "year": "2026", "value": 4.4 }
+      ]
+    },
+    "competitive_share": {
+      "title": "Competitive Market Share (2024)",
+      "data": [
+        { "company": "Biogen (Aduhelm)", "share": "40%" },
+        { "company": "Eli Lilly", "share": "20%" },
+        { "company": "Roche", "share": "15%" },
+        { "company": "Others", "share": "~25%" }
+      ]
+    }
+  },
+  "pembrolizumab_NASH": {
+    "market_forecast": {
+      "title": "Global NASH Treatment Market Forecast (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 0.8 },
+        { "year": "2023", "value": 1.0 },
+        { "year": "2024", "value": 1.3 },
+        { "year": "2025", "value": 1.7 },
+        { "year": "2026", "value": 2.2 }
+      ]
+    },
+    "competitive_share": {
+      "title": "Competitive Market Share (2024)",
+      "data": [
+        { "company": "Intercept Pharmaceuticals", "share": "50%" },
+        { "company": "Novartis", "share": "20%" },
+        { "company": "Merck (Keytruda)", "share": "15%" },
+        { "company": "Others", "share": "~15%" }
+      ]
+    }
+  },
+  "omeprazole_osteoporosis": {
+    "market_forecast": {
+      "title": "Global Osteoporosis Drug Market Forecast (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 10.5 },
+        { "year": "2023", "value": 11.0 },
+        { "year": "2024", "value": 11.4 },
+        { "year": "2025", "value": 11.8 },
+        { "year": "2026", "value": 12.3 }
+      ]
+    },
+    "competitive_share": {
+      "title": "Competitive Market Share (2024)",
+      "data": [
+        { "company": "AstraZeneca (Protonix)", "share": "35%" },
+        { "company": "Pfizer (Prevacid)", "share": "25%" },
+        { "company": "Kowa (Evista)", "share": "20%" },
+        { "company": "Others", "share": "~20%" }
+      ]
+    }
+  },
+  "rituximab_parkinson": {
+    "market_forecast": {
+      "title": "Global Parkinson's Disease Treatment Market Forecast (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 6.0 },
+        { "year": "2023", "value": 6.2 },
+        { "year": "2024", "value": 6.5 },
+        { "year": "2025", "value": 6.8 },
+        { "year": "2026", "value": 7.0 }
+      ]
+    },
+    "competitive_share": {
+      "title": "Competitive Market Share (2024)",
+      "data": [
+        { "company": "AbbVie (Duodopa)", "share": "30%" },
+        { "company": "Teva (Azilect)", "share": "20%" },
+        { "company": "Roche", "share": "15%" },
+        { "company": "Others", "share": "~35%" }
+      ]
+    }
+  },
+  "ketamine_chronic_pain": {
+    "market_forecast": {
+      "title": "Global Chronic Pain Therapies Market Forecast (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 15.0 },
+        { "year": "2023", "value": 15.5 },
+        { "year": "2024", "value": 16.0 },
+        { "year": "2025", "value": 16.8 },
+        { "year": "2026", "value": 17.5 }
+      ]
+    },
+    "competitive_share": {
+      "title": "Competitive Market Share (2024)",
+      "data": [
+        { "company": "Johnson & Johnson", "share": "25%" },
+        { "company": "Mundipharma", "share": "20%" },
+        { "company": "Depomed", "share": "15%" },
+        { "company": "Others", "share": "~40%" }
+      ]
+    }
+  },
+  "pioglitazone_alzheimer": {
+    "market_forecast": {
+      "title": "Global Alzheimer's Disease Treatment Market Forecast (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 3.2 },
+        { "year": "2023", "value": 3.4 },
+        { "year": "2024", "value": 3.7 },
+        { "year": "2025", "value": 4.0 },
+        { "year": "2026", "value": 4.4 }
+      ]
+    },
+    "competitive_share": {
+      "title": "Competitive Market Share (2024)",
+      "data": [
+        { "company": "Biogen", "share": "40%" },
+        { "company": "Eli Lilly", "share": "20%" },
+        { "company": "Roche", "share": "15%" },
+        { "company": "Others", "share": "~25%" }
+      ]
+    }
+  },
+  "ivermectin_oncology": {
+    "market_forecast": {
+      "title": "Global Oncology Drug Market Forecast (USD Billions)",
+      "data": [
+        { "year": "2022", "value": 160 },
+        { "year": "2023", "value": 165 },
+        { "year": "2024", "value": 173 },
+        { "year": "2025", "value": 182 },
+        { "year": "2026", "value": 190 }
+      ]
+    },
+    "competitive_share": {
+      "title": "Competitive Market Share (2024)",
+      "data": [
+        { "company": "Roche", "share": "25%" },
+        { "company": "Novartis", "share": "20%" },
+        { "company": "Merck", "share": "15%" },
+        { "company": "Others", "share": "~40%" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "metformin_diabetes": {
+    "header": {
+      "drug": "Metformin",
+      "disease": "Diabetes",
+      "region": "GLOBAL",
+      "timespan_days": 90,
+      "granularity": "daily"
+    },
+    "summary": {
+      "researcherQuestion": "Is the market sentiment favorable?",
+      "answer": "Positive",
+      "explainers": [
+        "8 news articles found",
+        "Sentiment: 65% positive, 15% negative",
+        "Strong public interest in diabetes management"
+      ]
+    },
+    "sentiment_summary": {
+      "positive": 65,
+      "neutral": 20,
+      "negative": 15
+    },
+    "news_articles": [
+      {
+        "title": "Metformin Shows Promise in New Diabetes Management Study",
+        "source": "Reuters Health",
+        "publishedAt": "2026-01-15",
+        "url": "https://example.com/metformin-study",
+        "snippet": "A recent study indicates Metformin continues to be effective for Type 2 diabetes management."
+      },
+      {
+        "title": "Generic Metformin Sales Surge Amid Rising Diabetes Cases",
+        "source": "PharmaTimes",
+        "publishedAt": "2026-01-10",
+        "url": "https://example.com/metformin-sales",
+        "snippet": "Global sales of generic Metformin have increased by 15% year-over-year."
+      },
+      {
+        "title": "FDA Approves Extended-Release Metformin Formulation",
+        "source": "FDA News",
+        "publishedAt": "2026-01-05",
+        "url": "https://example.com/fda-approval",
+        "snippet": "New extended-release formulation offers better patient compliance."
+      }
+    ],
+    "forum_quotes": [
+      {
+        "quote": "Metformin has been a game changer for managing my blood sugar levels",
+        "site": "DiabetesForum",
+        "url": "https://diabetesforum.com/post/123",
+        "sentiment": "POS"
+      },
+      {
+        "quote": "Side effects were manageable after the first few weeks",
+        "site": "Reddit r/diabetes",
+        "url": "https://reddit.com/r/diabetes/comments/abc",
+        "sentiment": "NEU"
+      }
+    ],
+    "recommended_actions": [
+      "Monitor regulatory updates for new formulations",
+      "Track competitive pricing in generic market",
+      "Analyze patient adherence data from real-world evidence"
+    ],
+    "confidence": "HIGH",
+    "suggestedNextPrompts": [
+      {"prompt": "Show clinical trials for Metformin"},
+      {"prompt": "Analyze patent risk for Metformin in diabetes"},
+      {"prompt": "Get market size data for Metformin"}
+    ],
+    "visualizations": []
+  }
+}

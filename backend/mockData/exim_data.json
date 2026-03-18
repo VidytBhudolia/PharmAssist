@@ -1,0 +1,222 @@
+{
+  "metformin_cancer": {
+    "trade_volume": {
+      "title": "API Trade Volume Analysis",
+      "data": [
+        { "country": "India", "q2_2024": 120, "q3_2024": 150, "qoq_growth": "+25%" },
+        { "country": "China", "q2_2024": 80, "q3_2024": 100, "qoq_growth": "+25%" },
+        { "country": "Mexico", "q2_2024": 30, "q3_2024": 35, "qoq_growth": "+17%" }
+      ]
+    },
+    "price_trends": {
+      "title": "API Price Trends (USD per kg or per unit)",
+      "data": [
+        { "year": 2022, "price": 50 },
+        { "year": 2023, "price": 55 },
+        { "year": 2024, "price": 53 }
+      ]
+    },
+    "import_risks": {
+      "title": "Import Risk Assessment",
+      "details": "Dependence on India/China; low API price volatility"
+    }
+  },
+  "sildenafil_altitude": {
+    "trade_volume": {
+      "title": "API Trade Volume Analysis",
+      "data": [
+        { "country": "China", "q2_2024": 90, "q3_2024": 110, "qoq_growth": "+22%" },
+        { "country": "India", "q2_2024": 60, "q3_2024": 75, "qoq_growth": "+25%" },
+        { "country": "Germany", "q2_2024": 20, "q3_2024": 25, "qoq_growth": "+25%" }
+      ]
+    },
+    "price_trends": {
+      "title": "API Price Trends (USD per kg or per unit)",
+      "data": [
+        { "year": 2022, "price": 300 },
+        { "year": 2023, "price": 290 },
+        { "year": 2024, "price": 295 }
+      ]
+    },
+    "import_risks": {
+      "title": "Import Risk Assessment",
+      "details": "China/India APIs; counterfeit risks in informal markets"
+    }
+  },
+  "adalimumab_lungfibrosis": {
+    "trade_volume": {
+      "title": "API Trade Volume Analysis",
+      "data": [
+        { "country": "EU (Germany)", "q2_2024": 5, "q3_2024": 7, "qoq_growth": "+40%" },
+        { "country": "USA", "q2_2024": 3, "q3_2024": 4, "qoq_growth": "+33%" },
+        { "country": "India", "q2_2024": 2, "q3_2024": 2, "qoq_growth": "0%" }
+      ]
+    },
+    "price_trends": {
+      "title": "API Price Trends (USD per kg or per unit)",
+      "data": [
+        { "year": 2022, "price": 8000 },
+        { "year": 2023, "price": 8200 },
+        { "year": 2024, "price": 8100 }
+      ]
+    },
+    "import_risks": {
+      "title": "Import Risk Assessment",
+      "details": "Complex manufacturing; potential biosimilar competition"
+    }
+  },
+  "fluoxetine_neurodegenerative": {
+    "trade_volume": {
+      "title": "API Trade Volume Analysis",
+      "data": [
+        { "country": "China", "q2_2024": 50, "q3_2024": 60, "qoq_growth": "+20%" },
+        { "country": "India", "q2_2024": 40, "q3_2024": 50, "qoq_growth": "+25%" },
+        { "country": "Brazil", "q2_2024": 10, "q3_2024": 12, "qoq_growth": "+20%" }
+      ]
+    },
+    "price_trends": {
+      "title": "API Price Trends (USD per kg or per unit)",
+      "data": [
+        { "year": 2022, "price": 40 },
+        { "year": 2023, "price": 42 },
+        { "year": 2024, "price": 43 }
+      ]
+    },
+    "import_risks": {
+      "title": "Import Risk Assessment",
+      "details": "Multiple generic sources; largely stable pricing"
+    }
+  },
+  "pembrolizumab_NASH": {
+    "trade_volume": {
+      "title": "API Trade Volume Analysis",
+      "data": [
+        { "country": "USA", "q2_2024": 2, "q3_2024": 3, "qoq_growth": "+50%" },
+        { "country": "EU (Belgium)", "q2_2024": 2, "q3_2024": 2, "qoq_growth": "0%" },
+        { "country": "India", "q2_2024": 0, "q3_2024": 1, "qoq_growth": "+∞" }
+      ]
+    },
+    "price_trends": {
+      "title": "API Price Trends (USD per kg or per unit)",
+      "data": [
+        { "year": 2022, "price": 6000 },
+        { "year": 2023, "price": 6200 },
+        { "year": 2024, "price": 6100 }
+      ]
+    },
+    "import_risks": {
+      "title": "Import Risk Assessment",
+      "details": "Single-source (Merck); high cost; supply chain concentrated"
+    }
+  },
+  "omeprazole_osteoporosis": {
+    "trade_volume": {
+      "title": "API Trade Volume Analysis",
+      "data": [
+        { "country": "India", "q2_2024": 100, "q3_2024": 120, "qoq_growth": "+20%" },
+        { "country": "China", "q2_2024": 80, "q3_2024": 85, "qoq_growth": "+6%" },
+        { "country": "Turkey", "q2_2024": 20, "q3_2024": 25, "qoq_growth": "+25%" }
+      ]
+    },
+    "price_trends": {
+      "title": "API Price Trends (USD per kg or per unit)",
+      "data": [
+        { "year": 2022, "price": 100 },
+        { "year": 2023, "price": 105 },
+        { "year": 2024, "price": 102 }
+      ]
+    },
+    "import_risks": {
+      "title": "Import Risk Assessment",
+      "details": "Generics widespread; minimal supply risk"
+    }
+  },
+  "rituximab_parkinson": {
+    "trade_volume": {
+      "title": "API Trade Volume Analysis",
+      "data": [
+        { "country": "EU (Germany)", "q2_2024": 5, "q3_2024": 6, "qoq_growth": "+20%" },
+        { "country": "USA", "q2_2024": 4, "q3_2024": 5, "qoq_growth": "+25%" },
+        { "country": "India", "q2_2024": 1, "q3_2024": 1, "qoq_growth": "0%" }
+      ]
+    },
+    "price_trends": {
+      "title": "API Price Trends (USD per kg or per unit)",
+      "data": [
+        { "year": 2022, "price": 5000 },
+        { "year": 2023, "price": 4800 },
+        { "year": 2024, "price": 4900 }
+      ]
+    },
+    "import_risks": {
+      "title": "Import Risk Assessment",
+      "details": "Patent expired; biosimilar entry; moderate supply diversity"
+    }
+  },
+  "ketamine_chronic_pain": {
+    "trade_volume": {
+      "title": "API Trade Volume Analysis",
+      "data": [
+        { "country": "USA", "q2_2024": 50, "q3_2024": 55, "qoq_growth": "+10%" },
+        { "country": "Mexico", "q2_2024": 10, "q3_2024": 12, "qoq_growth": "+20%" },
+        { "country": "India", "q2_2024": 20, "q3_2024": 25, "qoq_growth": "+25%" }
+      ]
+    },
+    "price_trends": {
+      "title": "API Price Trends (USD per kg or per unit)",
+      "data": [
+        { "year": 2022, "price": 20 },
+        { "year": 2023, "price": 22 },
+        { "year": 2024, "price": 23 }
+      ]
+    },
+    "import_risks": {
+      "title": "Import Risk Assessment",
+      "details": "Controlled substance; regulatory scrutiny"
+    }
+  },
+  "pioglitazone_alzheimer": {
+    "trade_volume": {
+      "title": "API Trade Volume Analysis",
+      "data": [
+        { "country": "China", "q2_2024": 30, "q3_2024": 35, "qoq_growth": "+17%" },
+        { "country": "India", "q2_2024": 20, "q3_2024": 25, "qoq_growth": "+25%" },
+        { "country": "UK", "q2_2024": 5, "q3_2024": 6, "qoq_growth": "+20%" }
+      ]
+    },
+    "price_trends": {
+      "title": "API Price Trends (USD per kg or per unit)",
+      "data": [
+        { "year": 2022, "price": 80 },
+        { "year": 2023, "price": 82 },
+        { "year": 2024, "price": 80 }
+      ]
+    },
+    "import_risks": {
+      "title": "Import Risk Assessment",
+      "details": "Generic manufacture; low entry barriers"
+    }
+  },
+  "ivermectin_oncology": {
+    "trade_volume": {
+      "title": "API Trade Volume Analysis",
+      "data": [
+        { "country": "India", "q2_2024": 50, "q3_2024": 60, "qoq_growth": "+20%" },
+        { "country": "China", "q2_2024": 40, "q3_2024": 45, "qoq_growth": "+13%" },
+        { "country": "Thailand", "q2_2024": 10, "q3_2024": 12, "qoq_growth": "+20%" }
+      ]
+    },
+    "price_trends": {
+      "title": "API Price Trends (USD per kg or per unit)",
+      "data": [
+        { "year": 2022, "price": 400 },
+        { "year": 2023, "price": 390 },
+        { "year": 2024, "price": 395 }
+      ]
+    },
+    "import_risks": {
+      "title": "Import Risk Assessment",
+      "details": "Public controversy; limited branded supply"
+    }
+  }
+}

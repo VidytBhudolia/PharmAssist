@@ -1,0 +1,22 @@
+{
+  "metformin": ["glucophage", "metformin", "fortamet", "glumetza"],
+  "ibuprofen": ["advil", "motrin", "ibuprofen", "nurofen"],
+  "aspirin": ["aspirin", "acetylsalicylic acid", "bayer"],
+  "lisinopril": ["lisinopril", "prinivil", "zestril"],
+  "atorvastatin": ["lipitor", "atorvastatin"],
+  "levothyroxine": ["synthroid", "levothyroxine", "levoxyl"],
+  "amlodipine": ["norvasc", "amlodipine"],
+  "omeprazole": ["prilosec", "omeprazole"],
+  "losartan": ["cozaar", "losartan"],
+  "gabapentin": ["neurontin", "gabapentin"],
+  "sertraline": ["zoloft", "sertraline"],
+  "escitalopram": ["lexapro", "escitalopram"],
+  "insulin": ["insulin", "humalog", "novolog", "lantus"],
+  "warfarin": ["coumadin", "warfarin"],
+  "acetaminophen": ["tylenol", "acetaminophen", "paracetamol"],
+  "amoxicillin": ["amoxil", "amoxicillin"],
+  "hydrochlorothiazide": ["microzide", "hydrochlorothiazide", "hctz"],
+  "simvastatin": ["zocor", "simvastatin"],
+  "montelukast": ["singulair", "montelukast"],
+  "furosemide": ["lasix", "furosemide"]
+}

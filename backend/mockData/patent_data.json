@@ -1,0 +1,164 @@
+{
+  "queries": [
+    {
+      "id": "metformin_cancer",
+      "query": "Evaluate repurposing opportunities for Metformin (small molecule) in Oncology (cancer)",
+      "followups": [
+        "Analyze unmet medical needs in Oncology therapy",
+        "Assess competitive products and market dynamics for Oncology",
+        "Search clinical trial registries for studies of Metformin in Oncology",
+        "Review patent landscape focusing on Metformin Oncology",
+        "Evaluate global market size and growth projections for Oncology",
+        "Identify key companies and therapies in cancer area",
+        "Examine manufacturing and API sourcing considerations for Metformin",
+        "Monitor recent scientific publications on Metformin and Oncology",
+        "Check regulatory status and approvals of Metformin in new indication",
+        "Draft strategic recommendations for repurposing Metformin into Oncology"
+      ]
+    },
+    {
+      "id": "sildenafil_altitude",
+      "query": "Evaluate repurposing opportunities for Sildenafil (small molecule) in High Altitude Pulmonary Edema (pulmonary)",
+      "followups": [
+        "Analyze unmet medical needs in High Altitude Pulmonary Edema therapy",
+        "Assess competitive products and market dynamics for pulmonary conditions",
+        "Search clinical trial registries for studies of Sildenafil in High Altitude Pulmonary Edema",
+        "Review patent landscape focusing on Sildenafil High Altitude Pulmonary Edema",
+        "Evaluate global market size and growth projections for pulmonary conditions",
+        "Identify key companies and therapies in pulmonary area",
+        "Examine manufacturing and API sourcing considerations for Sildenafil",
+        "Monitor recent scientific publications on Sildenafil and high-altitude medicine",
+        "Check regulatory status and approvals of Sildenafil in new indication",
+        "Draft strategic recommendations for repurposing Sildenafil into High Altitude Pulmonary Edema"
+      ]
+    },
+    {
+      "id": "adalimumab_lungfibrosis",
+      "query": "Evaluate repurposing opportunities for Adalimumab (biologic) in Idiopathic Pulmonary Fibrosis (pulmonology)",
+      "followups": [
+        "Analyze unmet medical needs in Idiopathic Pulmonary Fibrosis therapy",
+        "Assess competitive products and market dynamics for pulmonology conditions",
+        "Search clinical trial registries for studies of Adalimumab in Idiopathic Pulmonary Fibrosis",
+        "Review patent landscape focusing on Adalimumab Idiopathic Pulmonary Fibrosis",
+        "Evaluate global market size and growth projections for pulmonology conditions",
+        "Identify key companies and therapies in autoimmune lung disease area",
+        "Examine manufacturing and API sourcing considerations for Adalimumab",
+        "Monitor recent scientific publications on Adalimumab and lung fibrosis",
+        "Check regulatory status and approvals of Adalimumab in new indication",
+        "Draft strategic recommendations for repurposing Adalimumab into Idiopathic Pulmonary Fibrosis"
+      ]
+    },
+    {
+      "id": "fluoxetine_neurodegenerative",
+      "query": "Evaluate repurposing opportunities for Fluoxetine (small molecule) in Alzheimer's Disease (neurology)",
+      "followups": [
+        "Analyze unmet medical needs in Alzheimer's Disease therapy",
+        "Assess competitive products and market dynamics for neurology conditions",
+        "Search clinical trial registries for studies of Fluoxetine in Alzheimer's Disease",
+        "Review patent landscape focusing on Fluoxetine Alzheimer's Disease",
+        "Evaluate global market size and growth projections for neurology conditions",
+        "Identify key companies and therapies in CNS disorders area",
+        "Examine manufacturing and API sourcing considerations for Fluoxetine",
+        "Monitor recent scientific publications on Fluoxetine and neurodegeneration",
+        "Check regulatory status and approvals of Fluoxetine in new indication",
+        "Draft strategic recommendations for repurposing Fluoxetine into Alzheimer's Disease"
+      ]
+    },
+    {
+      "id": "pembrolizumab_NASH",
+      "query": "Evaluate repurposing opportunities for Pembrolizumab (biologic) in Non-Alcoholic Steatohepatitis (hepatology)",
+      "followups": [
+        "Analyze unmet medical needs in Non-Alcoholic Steatohepatitis therapy",
+        "Assess competitive products and market dynamics for hepatology conditions",
+        "Search clinical trial registries for studies of Pembrolizumab in Non-Alcoholic Steatohepatitis",
+        "Review patent landscape focusing on Pembrolizumab Non-Alcoholic Steatohepatitis",
+        "Evaluate global market size and growth projections for hepatology conditions",
+        "Identify key companies and therapies in immuno-oncology area",
+        "Examine manufacturing and API sourcing considerations for Pembrolizumab",
+        "Monitor recent scientific publications on Pembrolizumab and NASH",
+        "Check regulatory status and approvals of Pembrolizumab in new indication",
+        "Draft strategic recommendations for repurposing Pembrolizumab into Non-Alcoholic Steatohepatitis"
+      ]
+    },
+    {
+      "id": "omeprazole_osteoporosis",
+      "query": "Evaluate repurposing opportunities for Omeprazole (small molecule) in Osteoporosis (endocrinology)",
+      "followups": [
+        "Analyze unmet medical needs in Osteoporosis therapy",
+        "Assess competitive products and market dynamics for endocrinology conditions",
+        "Search clinical trial registries for studies of Omeprazole in Osteoporosis",
+        "Review patent landscape focusing on Omeprazole Osteoporosis",
+        "Evaluate global market size and growth projections for endocrinology conditions",
+        "Identify key companies and therapies in gastroenterology to bone area",
+        "Examine manufacturing and API sourcing considerations for Omeprazole",
+        "Monitor recent scientific publications on Omeprazole and bone health",
+        "Check regulatory status and approvals of Omeprazole in new indication",
+        "Draft strategic recommendations for repurposing Omeprazole into Osteoporosis"
+      ]
+    },
+    {
+      "id": "rituximab_parkinson",
+      "query": "Evaluate repurposing opportunities for Rituximab (biologic) in Parkinson's Disease (neurology)",
+      "followups": [
+        "Analyze unmet medical needs in Parkinson's Disease therapy",
+        "Assess competitive products and market dynamics for neurology conditions",
+        "Search clinical trial registries for studies of Rituximab in Parkinson's Disease",
+        "Review patent landscape focusing on Rituximab Parkinson's Disease",
+        "Evaluate global market size and growth projections for neurology conditions",
+        "Identify key companies and therapies in autoimmune neurology area",
+        "Examine manufacturing and API sourcing considerations for Rituximab",
+        "Monitor recent scientific publications on Rituximab and Parkinson's",
+        "Check regulatory status and approvals of Rituximab in new indication",
+        "Draft strategic recommendations for repurposing Rituximab into Parkinson's Disease"
+      ]
+    },
+    {
+      "id": "ketamine_chronic_pain",
+      "query": "Evaluate repurposing opportunities for Ketamine (small molecule) in Chronic Neuropathic Pain (pain)",
+      "followups": [
+        "Analyze unmet medical needs in Chronic Neuropathic Pain therapy",
+        "Assess competitive products and market dynamics for pain management",
+        "Search clinical trial registries for studies of Ketamine in Chronic Neuropathic Pain",
+        "Review patent landscape focusing on Ketamine Chronic Neuropathic Pain",
+        "Evaluate global market size and growth projections for pain therapeutics",
+        "Identify key companies and therapies in anesthesia and pain management area",
+        "Examine manufacturing and API sourcing considerations for Ketamine",
+        "Monitor recent scientific publications on Ketamine and chronic pain",
+        "Check regulatory status and approvals of Ketamine in new indication",
+        "Draft strategic recommendations for repurposing Ketamine into Chronic Neuropathic Pain"
+      ]
+    },
+    {
+      "id": "pioglitazone_alzheimer",
+      "query": "Evaluate repurposing opportunities for Pioglitazone (small molecule) in Alzheimer's Disease (neurology)",
+      "followups": [
+        "Analyze unmet medical needs in Alzheimer's Disease therapy",
+        "Assess competitive products and market dynamics for neurology conditions",
+        "Search clinical trial registries for studies of Pioglitazone in Alzheimer's Disease",
+        "Review patent landscape focusing on Pioglitazone Alzheimer's Disease",
+        "Evaluate global market size and growth projections for neurology conditions",
+        "Identify key companies and therapies in diabetes to neurodegeneration area",
+        "Examine manufacturing and API sourcing considerations for Pioglitazone",
+        "Monitor recent scientific publications on Pioglitazone and cognitive decline",
+        "Check regulatory status and approvals of Pioglitazone in new indication",
+        "Draft strategic recommendations for repurposing Pioglitazone into Alzheimer's Disease"
+      ]
+    },
+    {
+      "id": "ivermectin_oncology",
+      "query": "Evaluate repurposing opportunities for Ivermectin (small molecule) in Triple Negative Breast Cancer (oncology)",
+      "followups": [
+        "Analyze unmet medical needs in Triple Negative Breast Cancer therapy",
+        "Assess competitive products and market dynamics for oncology conditions",
+        "Search clinical trial registries for studies of Ivermectin in Triple Negative Breast Cancer",
+        "Review patent landscape focusing on Ivermectin Triple Negative Breast Cancer",
+        "Evaluate global market size and growth projections for oncology conditions",
+        "Identify key companies and therapies in oncology area",
+        "Examine manufacturing and API sourcing considerations for Ivermectin",
+        "Monitor recent scientific publications on Ivermectin and cancer",
+        "Check regulatory status and approvals of Ivermectin in new indication",
+        "Draft strategic recommendations for repurposing Ivermectin into Oncology"
+      ]
+    }
+  ]
+}

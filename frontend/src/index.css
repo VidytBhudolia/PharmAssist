@@ -1,0 +1,356 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=DM+Sans:wght@300;400;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ═══════════════════════════════════════════════════════════════════════════════════
+   CLINICAL PHARMACEUTICAL DESIGN SYSTEM
+   Enterprise-grade, regulated, optimized for long research sessions
+   Dark mode primary, WCAG AA compliant, minimal glow/gradients
+   ═══════════════════════════════════════════════════════════════════════════════════ */
+
+@layer base {
+  :root {
+    /* LIGHT THEME - Clinical Teal */
+    --background: 210 24% 97%;
+    --foreground: 216 28% 12%;
+    --card: 210 20% 99%;
+    --card-foreground: 216 28% 12%;
+    --popover: 210 20% 99%;
+    --popover-foreground: 216 28% 12%;
+    --primary: 174 62% 38%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 210 18% 93%;
+    --secondary-foreground: 216 28% 12%;
+    --muted: 210 16% 94%;
+    --muted-foreground: 215 14% 42%;
+    --accent: 220 56% 48%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 72% 50%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 214 16% 86%;
+    --input: 214 16% 86%;
+    --ring: 174 62% 38%;
+    --radius: 0.5rem;
+  }
+
+  /* DARK THEME - Deep Navy + Teal */
+  .dark {
+    --background: 222 47% 6%;       /* #0a0f1a - deep navy */
+    --foreground: 210 20% 92%;      /* #e4e9ef - cool white */
+
+    --card: 222 40% 9%;             /* #0f1628 - raised surface */
+    --card-foreground: 210 20% 92%;
+
+    --popover: 222 40% 9%;
+    --popover-foreground: 210 20% 92%;
+
+    --primary: 174 62% 45%;         /* #2bb5a0 - clinical teal */
+    --primary-foreground: 222 47% 6%;
+
+    --secondary: 222 32% 13%;       /* #161e30 - subtle elevation */
+    --secondary-foreground: 210 20% 92%;
+
+    --muted: 222 28% 15%;           /* #1a2236 */
+    --muted-foreground: 216 12% 56%;/* #828da0 */
+
+    --accent: 220 56% 52%;          /* #4478d4 - navy-blue accent */
+    --accent-foreground: 210 20% 92%;
+
+    --destructive: 0 72% 52%;
+    --destructive-foreground: 210 20% 92%;
+
+    --border: 222 24% 18%;          /* #212d42 - subtle border */
+    --input: 222 24% 18%;
+    --ring: 174 62% 45%;
+
+    --radius: 0.5rem;
+  }
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────────────
+   BASE STYLES
+   ───────────────────────────────────────────────────────────────────────────────────── */
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    font-size: 16px; /* Base 15px - comfortable reading */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    height: 100%;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: "DM Sans", "Helvetica Neue", Arial, sans-serif;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    margin: 0;
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    overflow-y: auto;
+    background-image:
+      radial-gradient(ellipse at 10% 0%, hsl(var(--primary) / 0.07), transparent 50%),
+      radial-gradient(ellipse at 90% 100%, hsl(var(--accent) / 0.06), transparent 50%),
+      linear-gradient(180deg, hsl(var(--background)) 0%, hsl(var(--background)) 100%);
+    background-attachment: fixed;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: "Plus Jakarta Sans", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+  }
+
+  /* Focus states - accessible, minimal */
+  :focus-visible {
+    @apply outline-none ring-1 ring-ring;
+  }
+
+  /* Selection - primary color */
+  ::selection {
+    @apply bg-primary/20 text-foreground;
+  }
+
+  /* Minimal scrollbars */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-border rounded;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-muted-foreground/30;
+  }
+
+  /* Hide scrollbar utility */
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+@layer components {
+  .font-display {
+    font-family: "Plus Jakarta Sans", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 700;
+  }
+
+  .font-body {
+    font-family: "DM Sans", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  .dossier-shell {
+    position: relative;
+    background-image:
+      radial-gradient(ellipse at 20% 10%, hsl(var(--primary) / 0.04), transparent 60%),
+      radial-gradient(ellipse at 80% 90%, hsl(var(--accent) / 0.03), transparent 60%);
+  }
+
+  .dossier-panel {
+    background: linear-gradient(
+      180deg,
+      hsl(var(--card) / 0.95) 0%,
+      hsl(var(--card) / 0.85) 100%
+    );
+    border: 1px solid hsl(var(--border) / 0.6);
+    box-shadow:
+      0 1px 0 hsl(var(--primary) / 0.06) inset,
+      0 20px 40px -12px hsl(222 47% 4% / 0.4);
+  }
+
+  .dossier-label {
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    font-size: 0.65rem;
+    color: hsl(var(--muted-foreground));
+  }
+
+  .dossier-chip {
+    border: 1px solid hsl(var(--border));
+    background: hsl(var(--secondary) / 0.7);
+    box-shadow: inset 0 1px 0 hsl(var(--foreground) / 0.06);
+  }
+
+  /* Reset Recharts legend text to prevent inherited letter-spacing */
+  .recharts-legend-item-text,
+  .recharts-legend-wrapper,
+  .recharts-default-legend {
+    letter-spacing: normal !important;
+    word-spacing: normal !important;
+    text-transform: none !important;
+  }
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────────────
+   GLASSMORPHISM & ANIMATIONS
+   ───────────────────────────────────────────────────────────────────────────────────── */
+@layer components {
+  /* Glassmorphism card effect */
+  .glass {
+    @apply bg-card/50 backdrop-blur-xl border-border/50;
+  }
+
+  .glass-strong {
+    @apply bg-card/70 backdrop-blur-2xl border-border/60;
+  }
+
+  /* Subtle hover transitions for all interactive elements */
+  .hover-lift {
+    @apply transition-all duration-200 ease-out;
+  }
+
+  .hover-lift:hover {
+    @apply -translate-y-0.5 shadow-lg;
+  }
+
+  /* Gradient text - premium gradient */
+  .gradient-text {
+    @apply bg-gradient-to-r from-teal-400 via-cyan-400 to-blue-400 bg-clip-text text-transparent;
+  }
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────────────
+   KEYFRAME ANIMATIONS
+   ───────────────────────────────────────────────────────────────────────────────────── */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-shimmer {
+  animation: shimmer 3s linear infinite;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+  background-size: 1000px 100%;
+}
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slide-in-right {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes pulse-subtle {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+/* Animation utility classes */
+.animate-fade-in {
+  animation: fade-in 0.3s ease-out forwards;
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.4s ease-out forwards;
+}
+
+.animate-slide-in-right {
+  animation: slide-in-right 0.3s ease-out forwards;
+}
+
+.animate-pulse-subtle {
+  animation: pulse-subtle 2s ease-in-out infinite;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Stagger animation delays */
+.stagger-1 {
+  animation-delay: 0.05s;
+}
+.stagger-2 {
+  animation-delay: 0.1s;
+}
+.stagger-3 {
+  animation-delay: 0.15s;
+}
+.stagger-4 {
+  animation-delay: 0.2s;
+}
+.stagger-5 {
+  animation-delay: 0.25s;
+}
+.stagger-6 {
+  animation-delay: 0.3s;
+}

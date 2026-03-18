@@ -1,0 +1,70 @@
+{
+  "semaglutide_general": {
+    "strategic_synthesis": {
+      "title": "Internal Knowledge Base – Strategic Synthesis",
+      "insights": [
+        {
+          "label": "Regulatory Signal",
+          "value": "No approved GLP-1 therapies currently indicated for addiction or compulsive behavioral disorders"
+        },
+        {
+          "label": "Internal Hypothesis",
+          "value": "Central GLP-1 signaling may modulate reward-driven behaviors independent of metabolic endpoints"
+        }
+      ],
+      "description": "Internal literature scans, post-marketing observations, and mechanistic models consistently point toward non-metabolic applications as the next frontier for GLP-1 lifecycle expansion."
+    },
+    "cross_indication_comparison": {
+      "title": "Cross-Indication Strategic Comparison",
+      "dimensions": [
+        {
+          "dimension": "Commercial Readiness",
+          "diabetes_obesity": "Very High",
+          "diabetes_obesity_level": "green",
+          "emerging_cns": "Medium",
+          "emerging_cns_level": "yellow"
+        },
+        {
+          "dimension": "IP Flexibility",
+          "diabetes_obesity": "Low",
+          "diabetes_obesity_level": "red",
+          "emerging_cns": "Moderate",
+          "emerging_cns_level": "yellow"
+        },
+        {
+          "dimension": "Strategic White Space",
+          "diabetes_obesity": "Low",
+          "diabetes_obesity_level": "red",
+          "emerging_cns": "High",
+          "emerging_cns_level": "green"
+        }
+      ],
+      "description": "Internal prioritization favors emerging behavioral indications where competitive intensity is low and differentiation is structurally defensible."
+    }
+  },
+  "semaglutide_aud": {
+    "aud_focus": {
+      "title": "Internal Knowledge Base – AUD Focus",
+      "insights": [
+        {
+          "label": "Internal Conviction Level",
+          "value": "Moderate–High (pending controlled clinical validation)"
+        },
+        {
+          "label": "Why AUD Survives Kill-Criteria",
+          "value": "Clear mechanistic rationale, minimal competitive crowding, and strong unmet clinical need"
+        }
+      ],
+      "description": "Internal screening frameworks consistently rank Alcohol Use Disorder above other exploratory CNS indications due to favorable signal-to-risk asymmetry."
+    },
+    "risk_flags": {
+      "title": "Internal Risk Flags (AUD)",
+      "flags": [
+        "Translational gap between metabolic and addiction endpoints",
+        "Behavioral trial variability and placebo response risk",
+        "Payer skepticism without relapse-prevention endpoints"
+      ],
+      "description": "Despite these risks, AUD remains internally categorized as a 'strategic exploration priority' rather than a speculative edge case."
+    }
+  }
+}

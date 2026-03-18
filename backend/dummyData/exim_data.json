@@ -1,0 +1,29 @@
+{
+  "semaglutide": {
+    "trade_volume": {
+      "title": "API Trade Volume Analysis",
+      "data": [
+        { "country": "Denmark", "q2_2024": 85, "q3_2024": 110, "qoq_growth": "+29%" },
+        { "country": "China", "q2_2024": 40, "q3_2024": 65, "qoq_growth": "+62%" }
+      ],
+      "description": "Semaglutide API trade volumes accelerated in Q3 2024, with China showing outsized growth driven by expanded peptide manufacturing capacity."
+    },
+    "price_trend": {
+      "title": "API Price Trend (USD / gram)",
+      "data": [
+        { "quarter": "Q1 2024", "price": 5.8 },
+        { "quarter": "Q2 2024", "price": 5.1 },
+        { "quarter": "Q3 2024", "price": 4.4 }
+      ],
+      "description": "Declining API prices reflect improving supply depth and competitive pressure among peptide manufacturers."
+    },
+    "import_dependency": {
+      "title": "Import Dependency & Sourcing Risk",
+      "data": [
+        { "region": "India", "dependency_percent": "82%", "primary_sources": "Denmark, China", "risk_level": "High" },
+        { "region": "EU", "dependency_percent": "55%", "primary_sources": "Denmark", "risk_level": "Medium" }
+      ],
+      "description": "High import reliance, particularly in India, elevates supply-chain risk and reinforces the strategic importance of supplier diversification."
+    }
+  }
+}

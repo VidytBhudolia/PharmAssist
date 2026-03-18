@@ -1,0 +1,22 @@
+{
+  "diabetes": ["diabetes", "diabetes mellitus", "type 2 diabetes", "type 1 diabetes", "t2dm", "t1dm"],
+  "hypertension": ["hypertension", "high blood pressure", "htn"],
+  "heart disease": ["heart disease", "cardiovascular disease", "coronary artery disease", "cad", "cvd"],
+  "cancer": ["cancer", "malignancy", "carcinoma", "tumor", "neoplasm"],
+  "asthma": ["asthma", "bronchial asthma"],
+  "copd": ["copd", "chronic obstructive pulmonary disease", "emphysema", "chronic bronchitis"],
+  "arthritis": ["arthritis", "rheumatoid arthritis", "osteoarthritis", "ra", "oa"],
+  "depression": ["depression", "major depressive disorder", "mdd", "clinical depression"],
+  "anxiety": ["anxiety", "anxiety disorder", "generalized anxiety disorder", "gad"],
+  "alzheimer": ["alzheimer", "alzheimer's disease", "dementia", "alzheimers"],
+  "parkinson": ["parkinson", "parkinson's disease", "parkinsons"],
+  "stroke": ["stroke", "cerebrovascular accident", "cva"],
+  "kidney disease": ["kidney disease", "chronic kidney disease", "ckd", "renal disease"],
+  "liver disease": ["liver disease", "hepatic disease", "cirrhosis"],
+  "obesity": ["obesity", "overweight", "morbid obesity"],
+  "osteoporosis": ["osteoporosis", "bone loss"],
+  "migraine": ["migraine", "headache", "migraine headache"],
+  "epilepsy": ["epilepsy", "seizure disorder", "seizures"],
+  "psoriasis": ["psoriasis", "plaque psoriasis"],
+  "lupus": ["lupus", "systemic lupus erythematosus", "sle"]
+}
