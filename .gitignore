@@ -12,3 +12,6 @@
 
 # Project-generated cache artifact
 backend/dummyData/report_data_cache.json
+
+# OS metadata
+.DS_Store
