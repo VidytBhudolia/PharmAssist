@@ -47,7 +47,6 @@ Quick links to each agent are available in [Agent Reference](#agent-reference) a
 - Backend: FastAPI + Python agent modules + MongoDB
 - Auth: Clerk
 - LLM layer: Groq-hosted models (via CrewAI/LangChain integrations)
-- Optional runtime path: Docker Compose for backend container
 
 ## Repository Structure
 
@@ -109,14 +108,6 @@ npm run dev
 ```
 
 Frontend app: `http://localhost:5173`
-
-## Docker (Backend)
-
-```bash
-docker compose up --build backend
-```
-
-Uses `backend/.env` through `docker-compose.yml`.
 
 ## Security Notes
 - `.env` files are ignored by Git.
